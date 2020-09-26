@@ -1,5 +1,11 @@
 from api import ROOT_URL
 
+def render_table_header():
+  return (
+    '| 사진 | 제품명 | 응모 일정 |\n'
+    '| --- | ---- | ------- |\n'
+  )
+
 def render_column_from_calendar(item_calendar):
   return '<br />'.join([
     line if is_not_first_line else f'<strong>{line}</strong>'
