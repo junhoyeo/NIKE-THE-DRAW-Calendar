@@ -1,9 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
-ROOT_URL = 'https://www.nike.com/kr'
+ROOT_URL = 'https://www.nike.com'
 
-def get_request(path='/'):
+def get_request(path='/kr'):
   response = requests.get(ROOT_URL + path, headers={
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) '
       'AppleWebKit/537.36 (KHTML, like Gecko) '
