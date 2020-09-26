@@ -1,3 +1,4 @@
+from pprint import pprint
 from time import sleep as delay
 from get_drawable_items import get_drawable_items
 from get_calendar_for_item import get_calendar_for_item
@@ -17,3 +18,5 @@ if __name__ == '__main__':
     markdown += rendered_markdown + '\n'
 
   inject_result_to_readme(markdown)
+  pprint(drawable_items)
+  print('👟 Updated Draws!')
