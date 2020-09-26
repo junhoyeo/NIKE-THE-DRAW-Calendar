@@ -1,15 +1,7 @@
-import requests
+import api
 from pprint import pprint
-from bs4 import BeautifulSoup
 
-ROOT_URL = 'https://www.nike.com/kr'
-
-response = requests.get(f'{ROOT_URL}/launch', headers={
-  'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) '
-    'AppleWebKit/537.36 (KHTML, like Gecko) '
-    'Chrome/85.0.4183.121 Safari/537.36',
-})
-soup = BeautifulSoup(response.text, 'html.parser')
+soup = api.get_request('/launch')
 
 launch_items = soup.find_all('a', class_='comingsoon')
 drawable_items = []
@@ -23,7 +15,7 @@ for launch_item in launch_items:
       'title': launch_item.attrs['title'],
       'theme': launch_item_image.attrs['alt'],
       'image': launch_item_image.attrs['data-src'],
-      'href': ROOT_URL + launch_item.attrs['href'],
+      'href': launch_item.attrs['href'],
     })
 
 pprint(drawable_items)
