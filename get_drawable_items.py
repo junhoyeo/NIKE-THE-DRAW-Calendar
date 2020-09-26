@@ -1,7 +1,7 @@
 import api
 
 def get_drawable_items():
-  soup = api.get_request('/kr/launch')
+  soup = api.get_request('/kr/launch?type=upcoming&activeDate=date-filter:AFTER')
 
   launch_items = soup.find_all('a', class_='comingsoon')
   drawable_items = []
