@@ -3,6 +3,9 @@ on:
   schedule:
     # update every day, 00:00
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
 jobs:
   update:
     runs-on: ubuntu-latest
