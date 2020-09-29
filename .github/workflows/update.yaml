@@ -1,5 +1,8 @@
 name: nike-the-draw-calendar
-on: push
+on:
+  schedule:
+    # update every day, 00:00
+    - cron: "0 0 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
