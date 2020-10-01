@@ -18,7 +18,6 @@ def inject_result_to_readme(injected_content):
     updated_content = (readme_content[0:start_index]
       + START_TAG + '\n'
       + f'> 👟 Updated Draws at {timestamp}‼️\n\n'
-      + render_table_header()
       + injected_content
       # + END_TAG + '\n'
       + readme_content[end_index:])
