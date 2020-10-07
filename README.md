@@ -10,7 +10,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.10.06‼️
+> 👟 Updated Draws at 2020.10.07‼️
 
 **현재 진행중인 THE DRAW가 없습니다!**
 
