@@ -10,8 +10,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.10.07‼️
+> 👟 Updated Draws at 2020.10.08‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB4612-300/eb98e129-0150-4867-9b83-093d4623288e_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DB4612-300/slgs33/wmns-air-jordan-1-high-og"><strong>우먼스 에어 조던 1</strong><br /></a> "LUCKY GREEN" | <strong>응모 기간 : 10/15(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/15(목) 12:00<br />당첨자 구매 기간 : 10/15(목) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
