@@ -10,7 +10,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.10.11‼️
+> 👟 Updated Draws at 2020.10.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
