@@ -10,10 +10,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.10.14‼️
+> 👟 Updated Draws at 2020.10.15‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB4612-300/eb98e129-0150-4867-9b83-093d4623288e_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DB4612-300/slgs33/wmns-air-jordan-1-high-og"><strong>우먼스 에어 조던 1</strong><br /></a> "LUCKY GREEN" | <strong>응모 기간 : 10/15(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/15(목) 12:00<br />당첨자 구매 기간 : 10/15(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC9533-001/99271a77-b6ab-4f0c-96d2-c249eefc20ce_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DC9533-001/kqwn30/air-jordan-4-retro-sp"><strong>에어 조던 4 X UNION LA</strong><br /></a> "OFF NOIR" | <strong>응모 기간 : 10/29(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/29(목) 14:00<br />당첨자 구매 기간 : 10/29(목) 14:00 ~ 16:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DA1951-001/d5969a87-994b-4035-8c20-2e7e41824af9_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DA1951-001/fxoh71/jordan-delta-mid-sp"><strong>조던 델타 미드 X UNION LA</strong><br /></a> "OFF NOIR" | <strong>응모 기간 : 10/29(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/29(목) 14:00<br />당첨자 구매 기간 : 10/29(목) 14:00 ~ 16:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DA2553-800/fcb9bde7-fa0e-4d84-a131-b9af79f339c2_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DA2553-800/lnhj71/jordan-zoom-92-u"><strong>줌 '92 X UNION LA</strong><br /></a> "GUAVA ICE" | <strong>응모 기간 : 10/29(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/29(목) 14:00<br />당첨자 구매 기간 : 10/29(목) 14:00 ~ 16:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
