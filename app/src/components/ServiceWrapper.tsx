@@ -1,24 +1,31 @@
 import React from 'react';
 import styled from 'styled-components';
+import MobileSizedView from 'react-mobile-sized-view';
 
 const ServiceWrapper: React.FC = ({ children }) => {
   return (
-    <Wrapper>
-      <Container>{children}</Container>
-    </Wrapper>
+    <MobileSizedView
+      backgroundColor="#EFEFEF"
+      screenBackgroundColor="#FFFFFF"
+      screenLightShadow="-31px -31px 62px #E9E9E9"
+      screenDarkShadow="31px 31px 62px #DDDDDD"
+    >
+      <ContentWrapper id="content-wrapper">{children}</ContentWrapper>
+    </MobileSizedView>
   );
 };
 
 export default ServiceWrapper;
 
-const Wrapper = styled.div`
-  width: 100%;
-  min-height: 100vh;
+const ContentWrapper = styled.div`
   display: flex;
-`;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  min-height: 100vh;
 
-const Container = styled.main`
-  width: 90%;
-  max-width: 1280px;
-  margin: 0 auto;
+  &::-webkit-scrollbar {
+    display: none;
+  }
 `;

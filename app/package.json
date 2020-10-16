@@ -11,6 +11,7 @@
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-mobile-sized-view": "^1.0.4",
     "react-scripts": "3.4.3",
     "styled-components": "^5.2.0",
     "styled-normalize": "^8.0.7"

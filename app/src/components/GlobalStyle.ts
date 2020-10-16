@@ -26,7 +26,7 @@ export default createGlobalStyle`
 
   body,
   input {
-    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, Bazier Square,
+    font-family: 'Montserrat', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, Bazier Square,
       Noto Sans KR, Segoe UI, Apple SD Gothic Neo, Roboto, Helvetica Neue, Arial, sans-serif,
       Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
     -webkit-font-smoothing: antialiased;
