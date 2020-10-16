@@ -9,6 +9,8 @@ const App: React.FC = () => {
     <ServiceWrapper>
       <Container>
         <CalendarCard />
+        <CalendarCard />
+        <CalendarCard />
       </Container>
     </ServiceWrapper>
   );
@@ -17,7 +19,7 @@ const App: React.FC = () => {
 export default App;
 
 const Container = styled.div`
-  margin-top: 32px;
+  padding: 16px 0;
   width: 100%;
   height: 100%;
 `;
