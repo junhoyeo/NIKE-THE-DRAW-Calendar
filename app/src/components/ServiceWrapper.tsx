@@ -24,6 +24,7 @@ const ContentWrapper = styled.div`
   overflow-y: auto;
   scroll-behavior: smooth;
   min-height: 100vh;
+  width: 100%;
 
   &::-webkit-scrollbar {
     display: none;
