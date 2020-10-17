@@ -1,34 +1,58 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import styled, { css } from 'styled-components';
 
-import SneakerCard from './SneakerCard';
+import SneakerCard, { ISneakerCard } from './SneakerCard';
 
-interface ICalendarCard {}
+interface ICalendarCard extends ISneakerCard {
+  calendar: string[];
+}
 
-const CalendarCard: React.FC<ICalendarCard> = () => {
+const CalendarCard: React.FC<ICalendarCard> = ({
+  calendar,
+  image,
+  title,
+  theme,
+}) => {
+  const calendarColumns = useMemo(
+    () =>
+      calendar.map((line) => {
+        if (line.includes('시간')) {
+          line = line.substr(0, line.lastIndexOf('('));
+        }
+        const [field, content] = line.split(/:(.+)/);
+        return [field.trim(), content.trim()];
+      }),
+    [calendar],
+  );
+
+  const [month, day] = useMemo(() => {
+    const numbers = calendarColumns[0][1].match(/\d+/g);
+    if (numbers) {
+      return [numbers[0], numbers[1]];
+    }
+    return [null, null];
+  }, [calendarColumns]);
+
   return (
     <Wrapper>
       <Container>
         <LeftSideBar>
           <CalendarList>
-            <CalendarCircle>10</CalendarCircle>
-            <CalendarCircle isSelected>29</CalendarCircle>
+            <CalendarCircle>{month && month}</CalendarCircle>
+            <CalendarCircle isSelected>{day && day}</CalendarCircle>
           </CalendarList>
           <CalendarText>
-            <strong>응모 기간</strong>
-            <br />
-            10/29(목) 10:00 ~ 11:00
-            <br />
-            <strong>당첨자 발표</strong>
-            <br />
-            10/29(목) 14:00
-            <br />
-            <strong>당첨자 구매 기간</strong>
-            <br />
-            10/29(목) 14:00 ~ 16:00
+            {calendarColumns.map(([field, content], index) => (
+              <React.Fragment key={`calendar-${index}`}>
+                <strong>{field}</strong>
+                <br />
+                {content}
+                <br />
+              </React.Fragment>
+            ))}
           </CalendarText>
         </LeftSideBar>
-        <SneakerCard />
+        <SneakerCard image={image} title={title} theme={theme} />
       </Container>
     </Wrapper>
   );
@@ -59,10 +83,10 @@ const CalendarList = styled.div`
 `;
 
 const CalendarText = styled.div`
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.45;
   margin-top: 16px;
-  color: #212529;
+  color: #495057;
 `;
 
 interface ICalendarCircle {
@@ -84,7 +108,7 @@ const CalendarCircle = styled.div<ICalendarCircle>`
   color: #ced4da;
 
   &:last-of-type {
-    margin-right: 16px;
+    margin-right: 32px;
   }
 
   ${({ isSelected = false }) =>

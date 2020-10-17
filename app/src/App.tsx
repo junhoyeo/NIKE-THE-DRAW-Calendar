@@ -4,13 +4,15 @@ import styled from 'styled-components';
 import CalendarCard from './components/CalendarCard';
 import ServiceWrapper from './components/ServiceWrapper';
 
+import sneakers from './mockups/sneakers';
+
 const App: React.FC = () => {
   return (
     <ServiceWrapper>
       <Container>
-        <CalendarCard />
-        <CalendarCard />
-        <CalendarCard />
+        {sneakers.map((sneaker, index) => (
+          <CalendarCard key={`sneaker-${index}`} {...sneaker} />
+        ))}
       </Container>
     </ServiceWrapper>
   );

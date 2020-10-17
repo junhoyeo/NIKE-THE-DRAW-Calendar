@@ -1,18 +1,19 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const EXAMPLE_SNEAKER_IMAGE =
-  'https://camo.githubusercontent.com/a76aef49dbc60fd84d194c69f59adc3a792fc2c3/68747470733a2f2f7374617469632d627265657a652e6e696b652e636f2e6b722f6b722f6b6f5f6b722f636d737374617469632f70726f647563742f4441323535332d3830302f66636239626465372d666130652d346438342d613133312d6239616637396633333963325f7072696d6172792e6a70673f67616c6c657279';
+export interface ISneakerCard {
+  image: string;
+  title: string;
+  theme: string;
+}
 
-interface ISneakerCard {}
-
-const SneakerCard: React.FC<ISneakerCard> = () => {
+const SneakerCard: React.FC<ISneakerCard> = ({ image, title, theme }) => {
   return (
     <Container>
-      <SneakerImage src={EXAMPLE_SNEAKER_IMAGE} />
+      <SneakerImage src={image} />
       <SneakerMeta>
-        <SneakerTitle>줌 '92 X UNION LA</SneakerTitle>
-        <SneakerTheme>"GUAVA ICE"</SneakerTheme>
+        <SneakerTitle>{title}</SneakerTitle>
+        <SneakerTheme>{theme}</SneakerTheme>
       </SneakerMeta>
     </Container>
   );
@@ -34,8 +35,8 @@ const SneakerImage = styled.img`
   position: absolute;
   width: 256px;
   height: 256px;
-  left: -20px;
-  top: -26px;
+  left: -32px;
+  top: -36px;
 `;
 
 const SneakerMeta = styled.div`
@@ -43,13 +44,15 @@ const SneakerMeta = styled.div`
   display: flex;
   flex-direction: column;
   left: 24px;
+  right: 24px;
   bottom: 24px;
-  line-height: 1.45;
+  flex: 1;
 `;
 
 const SneakerTitle = styled.span`
   font-weight: 900;
   font-size: 1.25rem;
+  line-height: 1.2;
   color: #212529;
 `;
 
@@ -57,4 +60,5 @@ const SneakerTheme = styled.span`
   font-size: 1.1rem;
   font-weight: bold;
   color: #495057;
+  line-height: 1.45;
 `;
