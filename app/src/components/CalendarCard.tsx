@@ -64,6 +64,10 @@ const Wrapper = styled.div`
   width: 100%;
   display: flex;
   margin: 32px 0;
+
+  @media screen and (max-width: 500px) {
+    zoom: 0.85;
+  }
 `;
 
 const Container = styled.div`
@@ -71,11 +75,19 @@ const Container = styled.div`
   margin: 0 auto;
   display: flex;
   justify-content: center;
+
+  @media screen and (max-width: 500px) {
+    width: 85%;
+  }
 `;
 
 const LeftSideBar = styled.div`
   display: flex;
   flex-direction: column;
+
+  @media screen and (max-width: 500px) {
+    zoom: 0.9;
+  }
 `;
 
 const CalendarList = styled.div`
