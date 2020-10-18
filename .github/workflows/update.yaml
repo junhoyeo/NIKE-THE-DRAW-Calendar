@@ -29,6 +29,14 @@ jobs:
         run: |
           cd parser
           python run.py
+      - name: Deploy web service
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+        run: |
+          cd ../app
+          yarn
+          yarn deploy
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
