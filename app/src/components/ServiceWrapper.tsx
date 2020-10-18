@@ -2,7 +2,14 @@ import React from 'react';
 import styled from 'styled-components';
 import MobileSizedView from 'react-mobile-sized-view';
 
+import useWindowSize from '../utils/useWindowSize';
+
 const ServiceWrapper: React.FC = ({ children }) => {
+  const { width = 1980 } = useWindowSize();
+  if (width <= 500) {
+    return <>{children}</>;
+  }
+
   return (
     <MobileSizedView
       backgroundColor="#EFEFEF"

@@ -9,7 +9,7 @@ import sneakers from './mockups/sneakers.json';
 
 const App: React.FC = () => {
   return (
-    <SafeArea top bottom>
+    <>
       <ServiceWrapper>
         <Container>
           {sneakers.map((sneaker, index) => (
@@ -17,7 +17,8 @@ const App: React.FC = () => {
           ))}
         </Container>
       </ServiceWrapper>
-    </SafeArea>
+      <SafeArea bottom />
+    </>
   );
 };
 
