@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import CalendarCard from './components/CalendarCard';
 import ServiceWrapper from './components/ServiceWrapper';
 
-import sneakers from './mockups/sneakers';
+import sneakers from './mockups/sneakers.json';
 
 const App: React.FC = () => {
   return (

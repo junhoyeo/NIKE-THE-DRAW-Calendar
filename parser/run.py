@@ -26,6 +26,6 @@ if __name__ == '__main__':
     pprint(drawable_items)
     print('👟 Updated Draws!')
 
-    with open('../products.json', 'w') as product_file:
+    with open('../app/src/mockups/sneakers.json', 'w') as product_file:
         json.dump(drawable_items, product_file, ensure_ascii=False, indent=2)
         product_file.write('\n')
