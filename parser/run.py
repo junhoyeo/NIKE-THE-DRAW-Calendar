@@ -1,3 +1,4 @@
+import json
 from pprint import pprint
 from time import sleep as delay
 from get_drawable_items import get_drawable_items
@@ -24,3 +25,7 @@ if __name__ == '__main__':
     inject_result_to_readme(markdown)
     pprint(drawable_items)
     print('👟 Updated Draws!')
+
+    with open('../products.json', 'w') as product_file:
+        json.dump(drawable_items, product_file, ensure_ascii=False, indent=2)
+        product_file.write('\n')
