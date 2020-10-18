@@ -21,7 +21,9 @@ const App: React.FC = () => {
 export default App;
 
 const Container = styled.div`
-  padding: 16px 0;
   width: 100%;
   height: 100%;
+  padding-top: 16px;
+  padding-bottom: calc(constant(safe-area-inset-bottom) + 16px);
+  padding-bottom: calc(env(safe-area-inset-bottom) + 16px);
 `;
