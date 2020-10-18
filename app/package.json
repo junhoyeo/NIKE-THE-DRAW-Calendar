@@ -2,11 +2,13 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://junhoyeo.github.io/NIKE-THE-DRAW-Calendar/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "yarn build && gh-pages -d build"
   },
   "dependencies": {
     "react": "^16.14.0",
@@ -17,10 +19,11 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "@types/node": "^14.11.8",
-    "@types/react": "^16.9.52",
+    "@types/node": "^14.11.10",
+    "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.4",
+    "gh-pages": "^3.1.0",
     "typescript": "~4.0.3"
   },
   "eslintConfig": {
