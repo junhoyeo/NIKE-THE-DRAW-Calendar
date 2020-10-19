@@ -17,6 +17,9 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
+      uses: actions/setup-node@v1
+        with:
+          node-version: 12
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
         with:
@@ -30,9 +33,6 @@ jobs:
           cd parser
           python run.py
       - name: Deploy web service
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
         run: |
           cd ../app
           yarn
