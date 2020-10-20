@@ -34,7 +34,7 @@ jobs:
           python run.py
       - name: Deploy web service
         run: |
-          cd ../app
+          cd app
           yarn
           yarn deploy
       - name: Commit & Push changes
