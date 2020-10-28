@@ -32,13 +32,16 @@ jobs:
         run: |
           cd parser
           python run.py
-      - name: Deploy web service
+      - name: Build web service
         run: |
           cd app
-          git config --global user.name "Junho Yeo"
-          git config --global user.email "hanaro0704@gmail.com"
           yarn
-          yarn deploy
+          yarn build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: app/build
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
