@@ -35,7 +35,8 @@ jobs:
       - name: Deploy web service
         run: |
           cd app
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "Junho Yeo"
+          git config --global user.email "hanaro0704@gmail.com"
           yarn
           yarn deploy
       - name: Commit & Push changes
