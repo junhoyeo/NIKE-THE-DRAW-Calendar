@@ -35,6 +35,7 @@ jobs:
       - name: Deploy web service
         run: |
           cd app
+          git config --global user.name "github-actions[bot]"
           yarn
           yarn deploy
       - name: Commit & Push changes
