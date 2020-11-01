@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.10.31‼️
+> 👟 Updated Draws at 2020.11.01‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC1788-100/eb17ff57-afcc-4745-ac3c-163dfb8b1b7c_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DC1788-100/rvgh37/air-jordan-1-high-og-co-jp"><strong>에어 조던 1 하이 OG CO.JP</strong><br /></a> "MIDNIGHT NAVY" | <strong>응모 기간 : 10/31(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/31(토) 12:00<br />당첨자 구매 기간 : 10/31(토) 12:00 ~ 14:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-141/e35ec7f5-a59b-4a8c-8760-3d7211b33681_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-141/akpm91/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 하이 OG CO.JP (BIG KIDS)</strong><br /></a> "MIDNIGHT NAVY" | <strong>응모 기간 : 10/31(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 10/31(토) 12:00<br />당첨자 구매 기간 : 10/31(토) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-001/a5765008-91ec-4b30-8cf0-033dcd18f7b9_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-001/scnp24/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "BLACK AND WHITE" | <strong>응모 기간 : 11/6(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/6(금) 12:00<br />당첨자 구매 기간 : 11/6(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-100/6b29e446-0d61-4934-b28b-53ac993cfa61_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-100/ctvl87/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "ROYAL FUCHSIA" | <strong>응모 기간 : 11/6(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/6(금) 12:00<br />당첨자 구매 기간 : 11/6(금) 12:00 ~ 14:00 (2시간) |
 
