@@ -22,11 +22,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.11.03‼️
+> 👟 Updated Draws at 2020.11.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-001/a5765008-91ec-4b30-8cf0-033dcd18f7b9_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-001/scnp24/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "BLACK AND WHITE" | <strong>응모 기간 : 11/6(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/6(금) 12:00<br />당첨자 구매 기간 : 11/6(금) 12:00 ~ 14:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-100/6b29e446-0d61-4934-b28b-53ac993cfa61_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-100/ctvl87/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "ROYAL FUCHSIA" | <strong>응모 기간 : 11/6(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/6(금) 12:00<br />당첨자 구매 기간 : 11/6(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-100/5cabdd37-5f9a-4b8a-a5af-e32995c7309d_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-100/ctvl87/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "ROYAL FUCHSIA" | <strong>응모 기간 : 11/6(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/6(금) 12:00<br />당첨자 구매 기간 : 11/6(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DA1469-200/7f4a13fe-5c20-40fa-b45d-4a6d9046a9a5_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DA1469-200/fkpv84/nike-dunk-low-sp"><strong>덩크 로우</strong><br /></a> "VENEER" | <strong>응모 기간 : 11/10(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/10(화) 13:00<br />당첨자 구매 기간 : 11/10(화) 13:00 ~ 15:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC8315-200/72d1112d-f6ff-41ca-abc6-347d7339962b_primary.jpg?gallery" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/young-athletes/DC8315-200/vcoc63/nike-dunk-low-sp-td"><strong>덩크 로우 (TODDLER)</strong><br /></a> "VENEER" | <strong>응모 기간 : 11/10(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/10(화) 13:00<br />당첨자 구매 기간 : 11/10(화) 13:00 ~ 15:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
