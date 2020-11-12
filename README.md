@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.11.11‼️
+> 👟 Updated Draws at 2020.11.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-009/c9653a63-e95f-4af2-a0de-7b44fc92a20b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-009/bugb79/nike-sb-dunk-low-pro"><strong>SB 덩크 로우</strong><br /></a> "CLEAR JADE" | <strong>응모 기간 : 11/11(수) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/11(수) 13:00<br />당첨자 구매 기간 : 11/11(수) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-008/72c77096-08f3-4b4c-b5fd-fee3588d0c51_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-008/ekgs83/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "TRAIL" | <strong>응모 기간 : 11/11(수) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/11(수) 13:00<br />당첨자 구매 기간 : 11/11(수) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ8149-101/6c9f2b89-3b98-4456-9e94-711d92110985_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CZ8149-101/ygmr74/nike-dunk-hi-sp"><strong>덩크 하이</strong><br /></a> "PURE PLATINUM" | <strong>응모 기간 : 11/13(금) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/13(금) 13:00<br />당첨자 구매 기간 : 11/13(금) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-105/c517179f-55d2-46f4-b4b7-33c5d41c905d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-105/mtqv86/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "BLACK MOCHA" | <strong>응모 기간 : 11/13(금) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/13(금) 13:00<br />당첨자 구매 기간 : 11/13(금) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-105/831d233b-4107-4665-94f8-ff6bb9e92ce1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-105/wiic58/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (BIG KIDS)</strong><br /></a> "BLACK MOCHA" | <strong>응모 기간 : 11/13(금) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 11/13(금) 13:00<br />당첨자 구매 기간 : 11/13(금) 13:00 ~ 15:00 (2시간) |
