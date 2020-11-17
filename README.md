@@ -22,10 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.11.16‼️
+> 👟 Updated Draws at 2020.11.17‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/9f97816f-dbe8-4f60-ade0-db5a8ce4aa04_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3223-100/ditq63/air-force-1-07-paranoise"><strong>에어 포스 1 로우 X PEACEMINUSONE</strong><br /></a> "PARA-NOISE" | <strong>응모 기간 : 11/25(수) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/25(수) 12:00<br />당첨자 구매 기간 : 11/25(수) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-465851222/DA1469-001_DA1469-001_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DA1469-001/nkix46/nike-dunk-low-sp"><strong>덩크 로우</strong><br /></a> "CERAMIC" | <strong>응모 기간 : 11/19(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/19(목) 12:00<br />당첨자 구매 기간 : 11/19(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC8315-001/9f4fbedb-6d7c-4e71-804f-9cb85dfbe9de_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/young-athletes/DC8315-001/eztx11/nike-dunk-low-sp-td"><strong>덩크 로우 (TODDLER)</strong><br /></a> "CERAMIC" | <strong>응모 기간 : 11/19(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/19(목) 12:00<br />당첨자 구매 기간 : 11/19(목) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
