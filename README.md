@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.11.25‼️
+> 👟 Updated Draws at 2020.11.26‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC6887-200/f9d6f487-2562-4964-ac96-e6c7e14017ab_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DC6887-200/xrks52/nike-sb-dunk-high-pro-qs"><strong>SB 덩크 하이 X CONCEPTS</strong><br /></a> "MALLARD" | <strong>응모 기간 : 11/26(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/26(목) 12:00<br />당첨자 구매 기간 : 11/26(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD4991-101/718fa044-e69c-4802-9bf7-a3ac19d8e258_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CD4991-101/xkrw51/kobe-v-protro"><strong>코비 5 프로트로</strong><br /></a> "BRUCE LEE ALT" | <strong>응모 기간 : 11/27(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/27(금) 12:00<br />당첨자 구매 기간 : 11/27(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD4991-700/d852f08a-0c68-448a-8825-2644651246d8_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CD4991-700/vjms25/kobe-v-protro"><strong>코비 5 프로트로</strong><br /></a> "BRUCE LEE" | <strong>응모 기간 : 11/27(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/27(금) 12:00<br />당첨자 구매 기간 : 11/27(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC7770-160/f7f3762d-2757-41ac-8d95-8932dc7d4d87_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DC7770-160/qtxq44/air-jordan-4-retro"><strong>에어 조던 4</strong><br /></a> "FIRE RED" | <strong>응모 기간 : 11/28(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 11/28(토) 12:00<br />당첨자 구매 기간 : 11/28(토) 12:00 ~ 14:00 (2시간) |
