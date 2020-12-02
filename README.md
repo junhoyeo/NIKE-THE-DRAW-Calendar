@@ -22,11 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.12.01‼️
+> 👟 Updated Draws at 2020.12.02‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-184914302/DC5382-100_DC5382-100_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DC5382-100/lnds95/w-nike-dunk-hi-sp"><strong>우먼스 덩크 하이</strong><br /></a> "VARSITY PURPLE" | <strong>응모 기간 : 12/3(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 12/3(목) 12:00<br />당첨자 구매 기간 : 12/3(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC5382-100/e96959e6-cb00-42b4-bbda-71ff4bbba45f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DC5382-100/lnds95/w-nike-dunk-hi-sp"><strong>우먼스 덩크 하이</strong><br /></a> "VARSITY PURPLE" | <strong>응모 기간 : 12/3(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 12/3(목) 12:00<br />당첨자 구매 기간 : 12/3(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ8149-002/9fc19206-91ad-42a1-ba29-c61de26d43e1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CZ8149-002/bmew58/nike-dunk-hi-sp"><strong>덩크 하이</strong><br /></a> "VARSITY MAIZE" | <strong>응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 12/9(수) 12:00<br />당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC9053-002/10231e66-fd9d-4b8d-8d0d-0d7b89e88380_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/young-athletes/DC9053-002/gymf37/nike-dunk-high-sp-ps"><strong>덩크 하이 (LITTLE KIDS)</strong><br /></a> "VARSITY MAIZE" | <strong>응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 12/9(수) 12:00<br />당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8012-011/b260349b-01f2-47d4-8460-6b2004c628bf_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8012-011/imcf36/air-jordan-11-retro"><strong>에어 조던 11</strong><br /></a> "JUBILEE" | <strong>응모 기간 : 12/8(화) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 12/8(화) 12:00<br />당첨자 구매 기간 : 12/8(화) 12:00 ~ 14:00 (2시간) |
