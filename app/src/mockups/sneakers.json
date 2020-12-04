@@ -1,27 +1,5 @@
 [
   {
-    "title": "덩크 하이",
-    "theme": "VARSITY MAIZE",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ8149-002/9fc19206-91ad-42a1-ba29-c61de26d43e1_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/men/fw/nike-sportswear/CZ8149-002/bmew58/nike-dunk-hi-sp",
-    "calendar": [
-      "응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)",
-      "당첨자 발표 : 12/9(수) 12:00",
-      "당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간)"
-    ]
-  },
-  {
-    "title": "덩크 하이 (LITTLE KIDS)",
-    "theme": "VARSITY MAIZE",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC9053-002/10231e66-fd9d-4b8d-8d0d-0d7b89e88380_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/little-kids/fw/young-athletes/DC9053-002/gymf37/nike-dunk-high-sp-ps",
-    "calendar": [
-      "응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)",
-      "당첨자 발표 : 12/9(수) 12:00",
-      "당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간)"
-    ]
-  },
-  {
     "title": "에어 조던 11",
     "theme": "JUBILEE",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8012-011/b260349b-01f2-47d4-8460-6b2004c628bf_primary.jpg?snkrBrowse",
@@ -41,6 +19,28 @@
       "응모 기간 : 12/8(화) 10:00 ~ 11:00 (1시간)",
       "당첨자 발표 : 12/8(화) 12:00",
       "당첨자 구매 기간 : 12/8(화) 12:00 ~ 14:00 (2시간)"
+    ]
+  },
+  {
+    "title": "덩크 하이",
+    "theme": "VARSITY MAIZE",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ8149-002/9fc19206-91ad-42a1-ba29-c61de26d43e1_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/men/fw/nike-sportswear/CZ8149-002/bmew58/nike-dunk-hi-sp",
+    "calendar": [
+      "응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)",
+      "당첨자 발표 : 12/9(수) 12:00",
+      "당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간)"
+    ]
+  },
+  {
+    "title": "덩크 하이 (LITTLE KIDS)",
+    "theme": "VARSITY MAIZE",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC9053-002/10231e66-fd9d-4b8d-8d0d-0d7b89e88380_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/little-kids/fw/young-athletes/DC9053-002/gymf37/nike-dunk-high-sp-ps",
+    "calendar": [
+      "응모 기간 : 12/9(수) 10:00 ~ 11:00 (1시간)",
+      "당첨자 발표 : 12/9(수) 12:00",
+      "당첨자 구매 기간 : 12/9(수) 12:00 ~ 14:00 (2시간)"
     ]
   }
 ]
