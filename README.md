@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2020.12.16‼️
+> 👟 Updated Draws at 2020.12.17‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3035-200/951506a6-6417-42ac-b5cc-6ec611cf8587_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3035-200/xjys26/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "STRING & BLACK-VILLAIN RED" | <strong>응모 기간 : 12/17(목) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 12/17(목) 13:00<br />당첨자 구매 기간 : 12/17(목) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1363-700/e00bd277-fe7f-42fe-a776-febc3871178b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV1363-700/iwfi55/nike-vaporwaffle-sacai"><strong>나이키 X 사카이 베이퍼와플</strong><br /></a> "TOUR YELLOW & GORGE GREEN-SAIL" | <strong>응모 기간 : 12/17(목) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 12/17(목) 13:00<br />당첨자 구매 기간 : 12/17(목) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC9936-100/fd33a604-2684-40b9-8f44-1f69511f872a_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DC9936-100/iwbw65/nike-sb-dunk-low-pro-qs"><strong>SB 덩크 로우 X SEAN CLIVER</strong><br /></a> "HOLIDAY SPECIAL" | <strong>응모 기간 : 12/19(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 12/19(토) 13:00<br />당첨자 구매 기간 : 12/19(토) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ2519-400/bd3304da-a114-4d89-a895-cb6f4afaaab8_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/action-outdoor/DJ2519-400/zgpx86/nike-sb-dunk-low-pro-qs-ps"><strong>SB 덩크 로우 X SEAN CLIVER (LITTLE KIDS)</strong><br /></a> "HOLIDAY SPECIAL" | <strong>응모 기간 : 12/19(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 12/19(토) 13:00<br />당첨자 구매 기간 : 12/19(토) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ2520-400/da26e283-7513-4f1f-96f0-2e4758faa4cc_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/action-outdoor/DJ2520-400/opsn46/nike-sb-dunk-low-pro-qs-td"><strong>SB 덩크 로우 X SEAN CLIVER (TODDLER)</strong><br /></a> "HOLIDAY SPECIAL" | <strong>응모 기간 : 12/19(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 12/19(토) 13:00<br />당첨자 구매 기간 : 12/19(토) 13:00 ~ 15:00 (2시간) |
