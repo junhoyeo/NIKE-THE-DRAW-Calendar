@@ -2,7 +2,7 @@ name: nike-the-draw-calendar
 on:
   schedule:
     # update every day, 00:00
-    - cron: "0 0 * * *"
+    - cron: 0 0 * * *
   push:
     branches:
       - master
@@ -42,6 +42,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: app/build
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
