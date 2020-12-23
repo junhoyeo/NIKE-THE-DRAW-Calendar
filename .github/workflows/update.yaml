@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
 jobs:
   update:
     runs-on: ubuntu-latest
