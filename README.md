@@ -22,10 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.01.08‼️
+> 👟 Updated Draws at 2021.01.09‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1628-800/89f74715-79c9-4cd3-b702-07f8f0a53655_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/CV1628-800/ught32/nike-sb-dunk-low-pro-qs"><strong>SB 덩크 로우 프로</strong><br /></a> "STREET HAWKER" | <strong>응모 기간 : 1/9(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 1/9(토) 12:00<br />당첨자 구매 기간 : 1/9(토) 12:00 ~ 14:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
