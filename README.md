@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.01.25‼️
+> 👟 Updated Draws at 2021.01.26‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1390-100/43307d0b-e26d-432e-8502-721bebdf85ec_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1390-100/tgit72/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "MEDIUM CURRY" | <strong>응모 기간 : 1/28(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 1/28(목) 12:00<br />당첨자 구매 기간 : 1/28(목) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
