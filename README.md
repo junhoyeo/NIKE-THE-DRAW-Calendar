@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.01.27‼️
+> 👟 Updated Draws at 2021.01.29‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1390-100/43307d0b-e26d-432e-8502-721bebdf85ec_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1390-100/tgit72/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "MEDIUM CURRY" | <strong>응모 기간 : 1/28(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 1/28(목) 12:00<br />당첨자 구매 기간 : 1/28(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-500/a0973116-96ca-4113-8193-fe95bf43243f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-500/ayzg46/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "COURT PURPLE" | <strong>응모 기간 : 1/31(일) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 1/31(일) 12:00<br />당첨자 구매 기간 : 1/31(일) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1655-600/d8c30342-1591-4e92-af83-a3bd00ab7037_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/CV1655-600/ifde80/nike-sb-dunk-low-pro-prm"><strong>SB 덩크 로우 프로</strong><br /></a> "PINK PIG" | <strong>응모 기간 : 2/1(월) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/1(월) 13:00<br />당첨자 구매 기간 : 2/1(월) 13:00 ~ 15:00 (2시간) |
 
