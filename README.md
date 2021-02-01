@@ -22,10 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.01.31‼️
+> 👟 Updated Draws at 2021.02.01‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV1655-600/d8c30342-1591-4e92-af83-a3bd00ab7037_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/CV1655-600/ifde80/nike-sb-dunk-low-pro-prm"><strong>SB 덩크 로우 프로</strong><br /></a> "PINK PIG" | <strong>응모 기간 : 2/1(월) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/1(월) 13:00<br />당첨자 구매 기간 : 2/1(월) 13:00 ~ 15:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
