@@ -22,10 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.02.08‼️
+> 👟 Updated Draws at 2021.02.09‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-001/f5d4edae-2509-4706-911b-a3cae582eb3c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-001/imve65/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "HYPER COBALT" | <strong>응모 기간 : 2/11(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/11(목) 12:00<br />당첨자 구매 기간 : 2/11(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1503-102/a2bbaacc-7970-4f15-9cb0-7b829948651c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1503-102/aotx17/w-nike-dunk-low"><strong>덩크 로우</strong><br /></a> "ORANGE PEARL" | <strong>응모 기간 : 2/11(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/11(목) 12:00<br />당첨자 구매 기간 : 2/11(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD0461-001/b720dd57-9019-4400-b81a-78c00e5456ee_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CD0461-001/zqgj63/wmns-air-jordan-1-high-og"><strong>우먼스 에어 조던 1</strong><br /></a> "SILVER TOE" | <strong>응모 기간 : 2/12(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/12(금) 12:00<br />당첨자 구매 기간 : 2/12(금) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
