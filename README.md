@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.02.11‼️
+> 👟 Updated Draws at 2021.02.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD0461-001/b720dd57-9019-4400-b81a-78c00e5456ee_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CD0461-001/zqgj63/wmns-air-jordan-1-high-og"><strong>우먼스 에어 조던 1</strong><br /></a> "SILVER TOE" | <strong>응모 기간 : 2/12(금) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/12(금) 12:00<br />당첨자 구매 기간 : 2/12(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1381-200/0e5bcead-b123-4f02-884d-92538db7091b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1381-200/kiyy82/nike-air-huarache-le"><strong>에어 허라치 FOR STÜSSY</strong><br /></a> "DESERT OAK" | <strong>응모 기간 : 2/18(목) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/18(목) 13:00<br />당첨자 구매 기간 : 2/18(목) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ4422-100/8043619f-7029-405a-a09a-a67253a3df0c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/BQ4422-100/dvaq25/air-jordan-1-hi-85"><strong>에어 조던 1 '85</strong><br /></a> "NEUTRAL GREY" | <strong>응모 기간 : 2/20(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/20(토) 13:00<br />당첨자 구매 기간 : 2/20(토) 13:00 ~ 15:00 (2시간) |
 
