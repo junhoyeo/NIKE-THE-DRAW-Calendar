@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.02.18‼️
+> 👟 Updated Draws at 2021.02.19‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1789-001/cfa7be06-7d9b-4b0f-b929-434f3e37608c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1789-001/btny73/nike-overbreak-undercover"><strong>오버브레이크 X UNDERCOVER</strong><br /></a> "BLACK" | <strong>응모 기간 : 2/19(금) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/19(금) 13:00<br />당첨자 구매 기간 : 2/19(금) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1789-200/a30a1fa7-f266-4986-ae8b-f108f9b45602_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1789-200/bliq84/nike-overbreak-undercover"><strong>오버브레이크 X UNDERCOVER</strong><br /></a> "OVERCAST" | <strong>응모 기간 : 2/19(금) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/19(금) 13:00<br />당첨자 구매 기간 : 2/19(금) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ4422-100/8043619f-7029-405a-a09a-a67253a3df0c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/BQ4422-100/dvaq25/air-jordan-1-hi-85"><strong>에어 조던 1 '85</strong><br /></a> "NEUTRAL GREY" | <strong>응모 기간 : 2/20(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/20(토) 13:00<br />당첨자 구매 기간 : 2/20(토) 13:00 ~ 15:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
