@@ -22,10 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.02.19‼️
+> 👟 Updated Draws at 2021.02.20‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ4422-100/8043619f-7029-405a-a09a-a67253a3df0c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/BQ4422-100/dvaq25/air-jordan-1-hi-85"><strong>에어 조던 1 '85</strong><br /></a> "NEUTRAL GREY" | <strong>응모 기간 : 2/20(토) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 2/20(토) 13:00<br />당첨자 구매 기간 : 2/20(토) 13:00 ~ 15:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-2143210116/DD1768-400_DD1768-400_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1768-400/cfpw80/w-nike-dunk-low-sp"><strong>우먼스 덩크 로우</strong><br /></a> "COLLEGE NAVY" | <strong>응모 기간 : 2/25(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/25(목) 12:00<br />당첨자 구매 기간 : 2/25(목) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
