@@ -22,10 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.02.22‼️
+> 👟 Updated Draws at 2021.02.23‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-2143210116/DD1768-400_DD1768-400_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1768-400/cfpw80/w-nike-dunk-low-sp"><strong>우먼스 덩크 로우</strong><br /></a> "COLLEGE NAVY" | <strong>응모 기간 : 2/25(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/25(목) 12:00<br />당첨자 구매 기간 : 2/25(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ3589-001/de30e2bc-e601-4cea-a747-7f18e7cfd9cc_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CZ3589-001/xrhr50/blazer-mid-readymade"><strong>블레이저 미드 X READYMADE</strong><br /></a> "Black" | <strong>응모 기간 : 2/27(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/27(토) 12:00<br />당첨자 구매 기간 : 2/27(토) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ3589-100/a60abf5e-ca1a-4f75-b17f-1c384f1d45b1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CZ3589-100/fdqb97/blazer-mid-readymade"><strong>블레이저 미드 X READYMADE</strong><br /></a> "White" | <strong>응모 기간 : 2/27(토) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/27(토) 12:00<br />당첨자 구매 기간 : 2/27(토) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-2143210116/DD1768-400_DD1768-400_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1768-400/cfpw80/w-nike-dunk-low-sp"><strong>우먼스 덩크 로우</strong><br /></a> "College Navy" | <strong>응모 기간 : 2/25(목) 10:00 ~ 11:00 (1시간)</strong><br />당첨자 발표 : 2/25(목) 12:00<br />당첨자 구매 기간 : 2/25(목) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
