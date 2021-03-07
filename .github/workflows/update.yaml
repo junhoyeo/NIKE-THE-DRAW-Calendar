@@ -22,23 +22,28 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
+
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests bs4
+
       - name: Run script
         run: |
           cd parser
           python run.py
+
       - name: Build web service
         run: |
           cd app
           yarn
           yarn build
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
