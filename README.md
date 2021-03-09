@@ -22,13 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.03.08‼️
+> 👟 Updated Draws at 2021.03.09‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1398-300/40e1ecc9-2651-49e5-8f89-aaf3d1de0b7d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1398-300/namj21/nike-dunk-hi"><strong>덩크 하이</strong><br /></a> "Barely Green" | <strong>응모 시간 : 3/9(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 3/9(화) 13:00<br />당첨자 구매 시간 : 3/9(화) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1846-300/66763688-4c71-4f4d-a29a-f1d8728d6d42_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DD1846-300/mgli16/nike-dunk-high-se-gs"><strong>덩크 하이 (Big Kids)</strong><br /></a> "Barely Green" | <strong>응모 시간 : 3/9(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 3/9(화) 13:00<br />당첨자 구매 시간 : 3/9(화) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CW1588-101/5fd2c5f2-86b4-4d41-8c8f-1815dea474df_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/young-athletes/CW1588-101/ewhl35/nike-dunk-low-ps"><strong>덩크 로우 (Little Kids)</strong><br /></a> "Orange Pearl" | <strong>응모 시간 : 3/9(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 3/9(화) 13:00<br />당첨자 구매 시간 : 3/9(화) 13:00 ~ 15:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CW1589-101/a4c7bb71-ede8-4c6b-a87c-2c980d3aafaa_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/young-athletes/CW1589-101/yefj69/nike-dunk-low-tde"><strong>덩크 로우 (Toddler)</strong><br /></a> "Orange Pearl" | <strong>응모 시간 : 3/9(화) 11:00 ~ 12:00 (1시간)</strong><br />당첨자 발표 : 3/9(화) 13:00<br />당첨자 구매 시간 : 3/9(화) 13:00 ~ 15:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
