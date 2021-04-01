@@ -22,10 +22,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.03.31‼️
+> 👟 Updated Draws at 2021.04.01‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1872-100/c826314e-8531-45fe-b775-7260731f3145_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1872-100/vjwg69/w-nike-dunk-low-se"><strong>우먼스 덩크 로우</strong><br /></a> "Candy" | <strong>응모 시간 : 4/2(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 : 4/2(금) 11:00<br />당첨자 구매 시간 : 4/2(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1872-100/c826314e-8531-45fe-b775-7260731f3145_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1872-100/vjwg69/w-nike-dunk-low-se"><strong>우먼스 덩크 로우</strong><br /></a> "Candy" |  |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-100/2f5dc1d4-ecee-4743-807b-e00029a44778_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-100/qrbv53/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Orange Blaze" |  |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-301/c30c08cb-78c6-468f-8e60-ac5f31662e1c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-301/xeoz14/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "Celadon" |  |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-700/df3b09f0-ff38-4f46-af3b-18944a3551a9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-700/zfwt58/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "Wheat and Purple" |  |
 
 <!-- DRAW CALENDAR: END -->
