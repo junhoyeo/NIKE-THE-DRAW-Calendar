@@ -22,16 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.04.07‼️
+> 👟 Updated Draws at 2021.04.08‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1011438959/Short-Sleeved Jersey Top-2.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DA2589-341/otcl88/as-m-nrg-c-s-s-jersey-top"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Short-Sleeved Jersey Top" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-1473713753/Long-sleeved Polo.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DA2592-397/pzkd24/as-m-nrg-c-ls-polo"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Long-sleeved Polo" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-1414745029/Rave Pant.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DA2593-003/pyqs18/as-m-nrg-c-rave-pant"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Rave Pant" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-30490469/Shoebox Hoodie.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DA2598-891/mzgw13/as-m-nrg-c-shoebox-hoodie"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Shoebox Hoodie" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1293252343/Workwear Jacket.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DC0543-010/ypgi30/as-m-nrg-c-work-wear-jkt"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Workwear Jacket" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1293252343/Long-Sleeved Jersey Top.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/nike-sportswear/DD4763-073/xohf62/as-m-nrg-c-ls-jersey-top"><strong>나이키 x Cactus Plant Flea Market</strong><br /></a> "Long-Sleeved Jersey Top" |  |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-402/9cdb5d88-3656-418a-b539-706f74402785_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-402/pese91/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Hyper Royal" |  |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-402/75069d69-e487-45cc-8113-7113347ec545_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-402/htbz15/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Hyper Royal" |  |
 
