@@ -22,12 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.04.13‼️
+> 👟 Updated Draws at 2021.04.14‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-402/9cdb5d88-3656-418a-b539-706f74402785_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-402/pese91/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Hyper Royal" |  |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-402/75069d69-e487-45cc-8113-7113347ec545_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-402/htbz15/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Hyper Royal" |  |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ1199-400/c9aaccef-b952-4018-9b4c-283e604e350b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DJ1199-400/tzlq65/wmns-air-jordan-1-zoom-cmft-sp"><strong>우먼스 에어 조던 1 줌</strong><br /></a> "Califia" |  |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1503-103/d6469a86-6336-422b-a429-97d2035bc22d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1503-103/usbe54/w-nike-dunk-low"><strong>우먼스 덩크 로우</strong><br /></a> "Photon Dust" |  |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-106/cbc8e26d-9233-4247-9e50-b478c0ac7081_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-106/vzzs95/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Dark Sulfur" |  |
 
