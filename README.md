@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://leeseongjinca.github.io/NIKE-THE-DRAW-Calendar/index.html">
+  <a href="https://junhoyeo.github.io/NIKE-THE-DRAW-Calendar/index.html">
     <strong>✨ Deployment</strong>
   </a>
 </p>
