@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.04.15‼️
+> 👟 Updated Draws at 2021.04.16‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1503-103/d6469a86-6336-422b-a429-97d2035bc22d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1503-103/usbe54/w-nike-dunk-low"><strong>우먼스 덩크 로우</strong><br /></a> "Photon Dust" | <strong>응모 시간 :4/16(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/16(금) 11:00<br />당첨자 구매 시간 :4/16(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-106/cbc8e26d-9233-4247-9e50-b478c0ac7081_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-106/vzzs95/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Dark Sulfur" | <strong>응모 시간 :4/16(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/16(금) 11:00<br />당첨자 구매 시간 :4/16(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ1199-400/c9aaccef-b952-4018-9b4c-283e604e350b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DJ1199-400/tzlq65/wmns-air-jordan-1-zoom-cmft-sp"><strong>우먼스 에어 조던 1 줌</strong><br /></a> "Califia" | <strong>응모 시간 :4/22(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/22(목) 11:00<br />당첨자 구매 시간 :4/22(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ2232-300/47008f8e-8761-43a5-99a2-3d8a2e8767be_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/CZ2232-300/xmkq53/nike-sb-dunk-high-pro-qs"><strong>SB 덩크 하이 프로</strong><br /></a> "Hawaii" | <strong>응모 시간 :4/23(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/23(금) 11:00<br />당첨자 구매 시간 :4/23(금) 11:00 ~ 13:00 (2시간) |
 
