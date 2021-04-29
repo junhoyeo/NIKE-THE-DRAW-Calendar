@@ -11,39 +11,6 @@
     ]
   },
   {
-    "title": "나이키 x 사카이 베이퍼와플",
-    "theme": "Sesame and Blue Void",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1875-200/9fa3e1f7-210c-49db-84fa-06f62095329d_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/men/fw/nike-sportswear/DD1875-200/qumb25/nike-vaporwaffle-sacai",
-    "calendar": [
-      "응모 시간 :4/29(목) 12:00 ~ 12:30 (30분)",
-      "당첨자 발표 :4/29(목) 13:00",
-      "당첨자 구매 시간 :4/29(목) 13:00 ~ 15:00 (2시간)"
-    ]
-  },
-  {
-    "title": "나이키 x 사카이 베이퍼와플",
-    "theme": "Dark Iris",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1875-500/9a1ae23e-c372-4255-b7ab-159e5ab65dcc_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/men/fw/nike-sportswear/DD1875-500/wsnq23/nike-vaporwaffle-sacai",
-    "calendar": [
-      "응모 시간 :4/29(목) 12:00 ~ 12:30 (30분)",
-      "당첨자 발표 :4/29(목) 13:00",
-      "당첨자 구매 시간 :4/29(목) 13:00 ~ 15:00 (2시간)"
-    ]
-  },
-  {
-    "title": "덩크 하이",
-    "theme": "Court Purple",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0642-001/9c501eee-1eba-429d-93dc-39f6c98543a2_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/men/fw/nike-sportswear/DH0642-001/frkw68/nike-dunk-hi-prm-emb",
-    "calendar": [
-      "응모 시간 :4/29(목) 12:00 ~ 12:30 (30분)",
-      "당첨자 발표 :4/29(목) 13:00",
-      "당첨자 구매 시간 :4/29(목) 13:00 ~ 15:00 (2시간)"
-    ]
-  },
-  {
     "title": "덩크 로우",
     "theme": "Cheetah",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7913-200/a46c674c-ad57-4e26-b09a-bc200cbe6dd9_primary.jpg?snkrBrowse",
@@ -56,7 +23,7 @@
   },
   {
     "title": "덩크 하이",
-    "theme": "White and Black",
+    "theme": "Black and White",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-103/064b762f-ba2d-4f8e-be75-c2eef3f790a5_primary.jpg?snkrBrowse",
     "href": "/kr/launch/t/men/fw/nike-sportswear/DD1399-103/srgv54/nike-dunk-hi-retro",
     "calendar": [
@@ -78,13 +45,24 @@
   },
   {
     "title": "덩크 하이 (Big Kids)",
-    "theme": "White and Black",
+    "theme": "Black and White",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB2179-103/3ba10e27-404e-42d2-ac54-282778b5f9be_primary.jpg?snkrBrowse",
     "href": "/kr/launch/t/junior/fw/young-athletes/DB2179-103/ymcy45/nike-dunk-high-gs",
     "calendar": [
       "응모 시간 :5/1(토) 11:00 ~ 11:30 (30분)",
       "당첨자 발표 :5/1(토) 12:00",
       "당첨자 구매 시간 :5/1(토) 12:00 ~ 14:00 (2시간)"
+    ]
+  },
+  {
+    "title": "SB 덩크 하이 프로",
+    "theme": "Test Pattern",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ2253-100/a8aabb88-5fc5-420b-932e-53805003a7e7_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/adult-unisex/fw/action-outdoor/CZ2253-100/sazs18/nike-sb-dunk-high-pro",
+    "calendar": [
+      "응모 시간 :5/2(일) 11:00 ~ 11:30 (30분)",
+      "당첨자 발표 :5/2(일) 12:00",
+      "당첨자 구매 시간 :5/2(일) 12:00 ~ 14:00 (2시간)"
     ]
   }
 ]
