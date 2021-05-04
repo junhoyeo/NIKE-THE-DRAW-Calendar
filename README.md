@@ -22,11 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.05.03‼️
+> 👟 Updated Draws at 2021.05.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0952-100/7491fedd-9a23-4f23-b6e8-7e60a7a83875_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0952-100/mocu20/nike-dunk-low-se"><strong>덩크 로우</strong><br /></a> "Free.99 White" | <strong>응모 시간 :5/7(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/7(금) 11:00<br />당첨자 구매 시간 :5/7(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ2496-100/55d45a77-5dc6-4530-88a0-0900cdf15c57_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/CZ2496-100/xedj26/nike-dunk-low-se-gs"><strong>덩크 로우 (Big Kids)</strong><br /></a> "Free.99 White" | <strong>응모 시간 :5/7(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/7(금) 11:00<br />당첨자 구매 시간 :5/7(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0952-001/01a94a6e-4107-41e0-ac37-9d209bdd9b60_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0952-001/kcuc68/nike-dunk-low-se"><strong>덩크 로우</strong><br /></a> "Free.99" | <strong>응모 시간 :5/7(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/7(금) 11:00<br />당첨자 구매 시간 :5/7(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
