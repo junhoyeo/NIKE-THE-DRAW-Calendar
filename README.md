@@ -22,10 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.05.11‼️
+> 👟 Updated Draws at 2021.05.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DA9089-100/14263a73-2ce1-4b8e-9f00-5f5effdcc796_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DA9089-100/fnay67/ajko-1"><strong>에어 조던 1 KO</strong><br /></a> "Chicago" | <strong>응모 시간 :5/12(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/12(수) 11:00<br />당첨자 구매 시간 :5/12(수) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-035/f0c1ec83-b28c-4664-9856-0d35e6ccba13_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-035/lghs63/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Shadow 2.0" | <strong>응모 시간 :5/15(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/15(토) 11:00<br />당첨자 구매 시간 :5/15(토) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-035/20330730-edc6-4a24-bb29-ec972bd80093_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-035/dlgr84/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Shadow 2.0" | <strong>응모 시간 :5/15(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/15(토) 11:00<br />당첨자 구매 시간 :5/15(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
