@@ -22,13 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.05.21‼️
+> 👟 Updated Draws at 2021.05.22‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH3434-110/29d50c8a-dc73-4666-8a85-faf082aa5794_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DH3434-110/trub11/wmns-air-jordan-3-retro-sp"><strong>우먼스 에어 조던 3 SP</strong><br /></a> "A Ma Maniére" | <strong>응모 시간 :5/22(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/22(토) 11:00<br />당첨자 구매 시간 :5/22(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0719-110/18eda0ec-3890-4824-ba52-3418f5b28f00_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/basketball/DJ0719-110/qbex70/jordan-3-retro-sp-td"><strong>조던 3 SP (Toddler)</strong><br /></a> "A Ma Maniére" | <strong>응모 시간 :5/22(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/22(토) 11:00<br />당첨자 구매 시간 :5/22(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0718-110/12fa675c-76da-4304-8415-0dcdae9e3732_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/basketball/DJ0718-110/zykk55/jordan-3-retro-sp-ps"><strong>조던 3 SP (Little Kids)</strong><br /></a> "A Ma Maniére" | <strong>응모 시간 :5/22(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/22(토) 11:00<br />당첨자 구매 시간 :5/22(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ2239-600/3457b7cb-1e95-478a-b049-74f635d781ce_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/CZ2239-600/hcmd90/nike-sb-dunk-low-pro-qs"><strong>SB 덩크 로우</strong><br /></a> "What The Paul" | <strong>응모 시간 :5/24(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/24(월) 11:00<br />당첨자 구매 시간 :5/24(월) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD0461-151/d52ddc91-35bb-4f5f-bf73-b9b53fb7a62f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CD0461-151/xqim16/wmns-air-jordan-1-high-og"><strong>우먼스 에어 조던 1</strong><br /></a> "Court Purple" | <strong>응모 시간 :5/24(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/24(월) 11:00<br />당첨자 구매 시간 :5/24(월) 11:00 ~ 13:00 (2시간) |
 
