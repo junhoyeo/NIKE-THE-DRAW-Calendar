@@ -1,16 +1,5 @@
 [
   {
-    "title": "SB 덩크 로우 프로",
-    "theme": "Classic Green",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-302/b2135044-fce5-4c4c-8943-361e2498365c_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-302/axvi66/nike-sb-dunk-low-pro",
-    "calendar": [
-      "응모 시간 :6/3(목) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :6/3(목) 11:00",
-      "당첨자 구매 시간 :6/3(목) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
     "title": "우먼스 덩크 하이",
     "theme": "Crimson Tint",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-104/79e52909-974e-47fa-a77a-192d7cff58b5_primary.jpg?snkrBrowse",
@@ -19,6 +8,17 @@
       "응모 시간 :6/4(금) 10:00 ~ 10:30 (30분)",
       "당첨자 발표 :6/4(금) 11:00",
       "당첨자 구매 시간 :6/4(금) 11:00 ~ 13:00 (2시간)"
+    ]
+  },
+  {
+    "title": "SB 덩크 로우 프로",
+    "theme": "Classic Green",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-302/b2135044-fce5-4c4c-8943-361e2498365c_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-302/axvi66/nike-sb-dunk-low-pro",
+    "calendar": [
+      "응모 시간 :6/3(목) 10:00 ~ 10:30 (30분)",
+      "당첨자 발표 :6/3(목) 11:00",
+      "당첨자 구매 시간 :6/3(목) 11:00 ~ 13:00 (2시간)"
     ]
   }
 ]

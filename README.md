@@ -22,11 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.05.27‼️
+> 👟 Updated Draws at 2021.05.28‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-302/b2135044-fce5-4c4c-8943-361e2498365c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-302/axvi66/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "Classic Green" | <strong>응모 시간 :6/3(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/3(목) 11:00<br />당첨자 구매 시간 :6/3(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-104/79e52909-974e-47fa-a77a-192d7cff58b5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-104/exvk31/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Crimson Tint" | <strong>응모 시간 :6/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/4(금) 11:00<br />당첨자 구매 시간 :6/4(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-302/b2135044-fce5-4c4c-8943-361e2498365c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-302/axvi66/nike-sb-dunk-low-pro"><strong>SB 덩크 로우 프로</strong><br /></a> "Classic Green" | <strong>응모 시간 :6/3(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/3(목) 11:00<br />당첨자 구매 시간 :6/3(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
