@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.06.03‼️
+> 👟 Updated Draws at 2021.06.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-104/79e52909-974e-47fa-a77a-192d7cff58b5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-104/exvk31/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Crimson Tint" | <strong>응모 시간 :6/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/4(금) 11:00<br />당첨자 구매 시간 :6/4(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7913-001/d1f4e1f7-78ab-47e8-be51-b23c3499705a_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH7913-001/nycu89/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "Zebra" | <strong>응모 시간 :6/5(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/5(토) 11:00<br />당첨자 구매 시간 :6/5(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0382-600/7e4e0742-99d3-4c63-b16f-586d97277a46_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ0382-600/ynpn18/nike-dunk-hi-f"><strong>덩크 하이 x Fragment Design</strong><br /></a> "Black" | <strong>응모 시간 :6/5(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/5(토) 11:00<br />당첨자 구매 시간 :6/5(토) 11:00 ~ 13:00 (2시간) |
 
