@@ -22,14 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.06.09‼️
+> 👟 Updated Draws at 2021.06.10‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4436-100/cdee3172-c1a7-4bd5-a121-4f821d0f1341_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ4436-100/egit45/nike-lebron-viii-v2-low-qs"><strong>르브론 8 V/2 로우</strong><br /></a> "Miami Nights" | <strong>응모 시간 :6/16(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/16(수) 11:00<br />당첨자 구매 시간 :6/16(수) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1877-001/ab18238d-3524-4b6d-900a-4e8439e1aff7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1877-001/qiee27/nike-blazer-low-sacai"><strong>블레이저 로우 x sacai</strong><br /></a> "Classic Green" | <strong>응모 시간 :6/10(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/10(목) 11:00<br />당첨자 구매 시간 :6/10(목) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1877-100/9ccc7313-5d8e-45a7-8179-31bc4cdcd5eb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1877-100/gyow55/nike-blazer-low-sacai"><strong>블레이저 로우 x sacai</strong><br /></a> "Magma Orange" | <strong>응모 시간 :6/10(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/10(목) 11:00<br />당첨자 구매 시간 :6/10(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-102/3fc00f73-5573-44c5-83fc-6cda11e5a140_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-102/gwgd11/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Game Royal" | <strong>응모 시간 :6/11(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/11(금) 11:00<br />당첨자 구매 시간 :6/11(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB2179-102/d443cb4e-8bab-44a8-bc4f-5d2a78a08995_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DB2179-102/jaxi27/nike-dunk-high-gs"><strong>덩크 하이 (Big Kids)</strong><br /></a> "Game Royal" | <strong>응모 시간 :6/11(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/11(금) 11:00<br />당첨자 구매 시간 :6/11(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4436-100/cdee3172-c1a7-4bd5-a121-4f821d0f1341_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ4436-100/egit45/nike-lebron-viii-v2-low-qs"><strong>르브론 8 V/2 로우</strong><br /></a> "Miami Nights" | <strong>응모 시간 :6/16(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/16(수) 11:00<br />당첨자 구매 시간 :6/16(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
