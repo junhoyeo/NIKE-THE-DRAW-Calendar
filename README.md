@@ -22,11 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.06.16‼️
+> 👟 Updated Draws at 2021.06.17‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0790-100/4b428fdf-8ec4-4e73-946c-95b349903374_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CZ0790-100/wqhm24/air-jordan-1-low-og"><strong>에어 조던 1 로우 OG</strong><br /></a> "Neutral Grey" | <strong>응모 시간 :6/17(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/17(목) 11:00<br />당첨자 구매 시간 :6/17(목) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0775-100/abbb0a72-4097-4e9c-9025-e52c6d406bd1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CZ0775-100/amdy14/wmns-air-jordan-1-low-og"><strong>우먼스 에어 조던 1 로우 OG</strong><br /></a> "Neutral Grey" | <strong>응모 시간 :6/17(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/17(목) 11:00<br />당첨자 구매 시간 :6/17(목) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
