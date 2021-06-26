@@ -22,10 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.06.25‼️
+> 👟 Updated Draws at 2021.06.26‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ5718-300/f710c368-1895-41ff-bd73-20502f98bc87_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DJ5718-300/sqam63/air-jordan-4-retro-sp"><strong>에어 조던 4 x UNION LA</strong><br /></a> "Desert Moss" | <strong>응모 시간 :6/26(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/26(토) 11:00<br />당첨자 구매 시간 :6/26(토) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
