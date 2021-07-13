@@ -22,10 +22,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.07.12‼️
+> 👟 Updated Draws at 2021.07.13‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC0774-105/95703aad-9252-4bda-96ca-2c51ed0b02ba_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DC0774-105/gejr66/wmns-air-jordan-1-low"><strong>에어 조던 1 로우</strong><br /></a> "Wolf Grey" | <strong>응모 시간 :7/17(토) 11:30 ~ 12:00 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0606-400/855bfe4e-6b3a-453a-9f2f-f072ccef4f8d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DJ0606-400/tllw68/nike-sb-dunk-low-pro-prm"><strong>SB 덩크 로우 프로</strong><br /></a> "Barcelona" | <strong>응모 시간 :7/17(토) 11:30 ~ 12:00 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB1640-001/7dc4489a-1d26-4185-afd6-e2a886f1d1ee_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DB1640-001/msmj39/nike-sb-dunk-high-pro"><strong>SB 덩크 하이 프로</strong><br /></a> "Maize and Black" | <strong>응모 시간 :7/17(토) 11:30 ~ 12:00 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0957-001/92a9b6a3-759c-4589-83ce-e1d024b344ec_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0957-001/flcw70/nike-dunk-low-se"><strong>덩크 로우</strong><br /></a> "Black Multi-Camo" | <strong>응모 시간 :7/17(토) 11:30 ~ 12:00 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0957-100/c8aefd2e-9656-4b0c-9d68-9216c07fb7bc_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0957-100/fpiu43/nike-dunk-low-se"><strong>덩크 로우</strong><br /></a> "Sail Multi-Camo" | <strong>응모 시간 :7/17(토) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB1909-100/1ab55cf3-6e5e-4663-aa8d-03b591831abb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DB1909-100/ywsv74/nike-dunk-low-se-gs"><strong>덩크 로우 (Big Kids)</strong><br /></a> "Sail Multi-Camo" | <strong>응모 시간 :7/17(토) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :7/17(토) 13:00<br />당첨자 구매 시간 :7/17(토) 13:00 ~ 15:00 (2시간) |
