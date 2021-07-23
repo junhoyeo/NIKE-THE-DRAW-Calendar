@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.07.22‼️
+> 👟 Updated Draws at 2021.07.23‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV0697-001/986c7e81-246a-47eb-a73c-5526e1f9f830_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV0697-001/tdyt34/air-zoom-tempo-next-ow"><strong>에어 줌 템포 NEXT% x Off-White™</strong><br /></a> "Black" | <strong>응모 시간 :7/23(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/23(금) 11:00<br />당첨자 구매 시간 :7/23(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CV0697-400/8e4dcfd4-4512-46df-a858-6a1415b753fc_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/CV0697-400/fvts94/air-zoom-tempo-next-ow"><strong>에어 줌 템포 NEXT% x Off-White™</strong><br /></a> "Pink Glow" | <strong>응모 시간 :7/23(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/23(금) 11:00<br />당첨자 구매 시간 :7/23(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9401-600/6a98e36d-d08a-42cd-a7ce-8048632d451a_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD9401-600/yshq89/nike-dunk-hi-1985-u"><strong>덩크 하이 1985 x UNDERCOVER</strong><br /></a> "Gym Red" | <strong>응모 시간 :7/28(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/28(수) 11:00<br />당첨자 구매 시간 :7/28(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
