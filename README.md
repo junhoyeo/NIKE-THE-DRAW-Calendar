@@ -22,12 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.07.30‼️
+> 👟 Updated Draws at 2021.07.31‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1877-002/7ee92b1e-3fa8-4812-ad4a-68bdfa12e12c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1877-002/eghf89/nike-blazer-low-sacai"><strong>블레이저 로우 x sacai</strong><br /></a> "Iron Grey" | <strong>응모 시간 :7/31(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/31(토) 11:00<br />당첨자 구매 시간 :7/31(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1877-200/cbe5b8dc-c635-4056-8513-e909c9ddb8b8_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1877-200/zqem47/nike-blazer-low-sacai"><strong>블레이저 로우 x sacai</strong><br /></a> "British Tan" | <strong>응모 시간 :7/31(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/31(토) 11:00<br />당첨자 구매 시간 :7/31(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7695-600/da98dbe4-767f-402d-9ab3-9eda0203c2c5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DH7695-600/xnab25/nike-sb-dunk-low-pro-qs"><strong>SB 파라 덩크 로우 프로</strong><br /></a> "Abstract Art" | <strong>응모 시간 :7/31(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/31(토) 11:00<br />당첨자 구매 시간 :7/31(토) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
