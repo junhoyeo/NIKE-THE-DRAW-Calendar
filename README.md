@@ -22,8 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.03‼️
+> 👟 Updated Draws at 2021.08.04‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB0500-100/57504f50-2126-4fe0-834d-fae909a3ae3b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DB0500-100/ocdc66/nike-dunk-scrap"><strong>덩크 스크랩</strong><br /></a> "Sea Glass" | <strong>응모 시간 :8/12(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/12(목) 11:00<br />당첨자 구매 시간 :8/12(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB0500-200/dc4b6cba-17aa-429b-a685-1c69a0e8b3a3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DB0500-200/spsu11/nike-dunk-scrap"><strong>덩크 스크랩</strong><br /></a> "Archeo Brown" | <strong>응모 시간 :8/12(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/12(목) 11:00<br />당첨자 구매 시간 :8/12(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM7866-140/12d6c862-ec81-46b8-adaa-f6edf708a603_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DM7866-140/cuwc56/air-jordan-1-low-og-sp"><strong>에어 조던 1 로우</strong><br /></a> "Travis Scott x Fragment" | <strong>응모 시간 :8/13(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/13(금) 11:00<br />당첨자 구매 시간 :8/13(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
