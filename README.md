@@ -22,12 +22,15 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.05‼️
+> 👟 Updated Draws at 2021.08.06‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB0500-100/57504f50-2126-4fe0-834d-fae909a3ae3b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DB0500-100/ocdc66/nike-dunk-scrap"><strong>덩크 스크랩</strong><br /></a> "Sea Glass" | <strong>응모 시간 :8/12(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/12(목) 11:00<br />당첨자 구매 시간 :8/12(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB0500-200/dc4b6cba-17aa-429b-a685-1c69a0e8b3a3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DB0500-200/spsu11/nike-dunk-scrap"><strong>덩크 스크랩</strong><br /></a> "Archeo Brown" | <strong>응모 시간 :8/12(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/12(목) 11:00<br />당첨자 구매 시간 :8/12(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM7866-140/12d6c862-ec81-46b8-adaa-f6edf708a603_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DM7866-140/cuwc56/air-jordan-1-low-og-sp"><strong>에어 조던 1 로우</strong><br /></a> "Travis Scott x Fragment" | <strong>응모 시간 :8/13(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/13(금) 11:00<br />당첨자 구매 시간 :8/13(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0615-010/8169d579-505f-4d71-ae3d-82f2f70bf24a_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/basketball/DJ0615-010/dexn43/m-j-tsf-flc-po-hoodie"><strong>Jordan x Travis Scott x Fragment</strong><br /></a> "Hoodie" | <strong>응모 시간 :8/13(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/13(금) 11:00<br />당첨자 구매 시간 :8/13(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0617-010/bc265905-b993-465b-ae07-4be21e58372c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/basketball/DJ0617-010/smig53/m-j-tsf-short"><strong>Jordan x Travis Scott x Fragment</strong><br /></a> "Shorts" | <strong>응모 시간 :8/13(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/13(금) 11:00<br />당첨자 구매 시간 :8/13(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ0619-133/6b7c3e1b-e877-4da0-947f-f59428532e7c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/ap/basketball/DJ0619-133/wtwg30/m-j-tsf-ss-tee"><strong>Jordan x Travis Scott x Fragment</strong><br /></a> "Short-Sleeve Tee" | <strong>응모 시간 :8/13(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/13(금) 11:00<br />당첨자 구매 시간 :8/13(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
