@@ -22,11 +22,14 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.17‼️
+> 👟 Updated Draws at 2021.08.18‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM8461-001/2434f1aa-36ed-4fd4-aecd-8059674f0636_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DM8461-001/prve41/nike-air-force-1-low-sp"><strong>에어 포스 1 x UNDEFEATED</strong><br /></a> "5 On It" | <strong>응모 시간 :8/20(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/20(금) 11:00<br />당첨자 구매 시간 :8/20(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH6508-400/f962a00b-6917-45e3-9a58-7de44e8c4d01_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH6508-400/ocbx75/nike-dunk-low-sp"><strong>덩크 로우 x UNDEFEATED</strong><br /></a> "5 On It" | <strong>응모 시간 :8/20(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/20(금) 11:00<br />당첨자 구매 시간 :8/20(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM8461-001/2434f1aa-36ed-4fd4-aecd-8059674f0636_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DM8461-001/prve41/nike-air-force-1-low-sp"><strong>에어 포스 1 x UNDEFEATED</strong><br /></a> "5 On It" | <strong>응모 시간 :8/20(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/20(금) 11:00<br />당첨자 구매 시간 :8/20(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CD0461-002/8c6761af-a99d-4f09-97d7-4f6d2471f214_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CD0461-002/yime34/w-air-jordan-1-retro-hi-og"><strong>우먼스 에어 조던 1</strong><br /></a> "Seafoam" | <strong>응모 시간 :8/21(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/21(토) 11:00<br />당첨자 구매 시간 :8/21(토) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH2684-001/b92e7e60-431c-4e90-b88a-9a0e8db1d2a1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH2684-001/enra14/nike-ldwaffle-sf"><strong>LD와플 x sacai x Fragment</strong><br /></a> "Light Smoke Grey" | <strong>응모 시간 :8/24(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/24(화) 11:00<br />당첨자 구매 시간 :8/24(화) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH2684-400/19e847a7-8a65-4907-8903-3bab1be6e5f1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH2684-400/ivoa29/nike-ldwaffle-sf"><strong>LD와플 x sacai x Fragment</strong><br /></a> "Blackened Blue" | <strong>응모 시간 :8/24(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/24(화) 11:00<br />당첨자 구매 시간 :8/24(화) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
