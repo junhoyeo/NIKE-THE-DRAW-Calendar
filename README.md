@@ -22,7 +22,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.24‼️
+> 👟 Updated Draws at 2021.08.25‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
@@ -30,5 +30,7 @@
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-701/dfa0ef8c-31d4-4695-897d-9b1447c2c2a5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-701/dphp56/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Pollen" | <strong>응모 시간 :8/27(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/27(금) 11:00<br />당첨자 구매 시간 :8/27(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8527-700/2e310ec6-1b86-493d-ad18-d5e330154e83_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8527-700/zowf58/air-jordan-4-retro"><strong>에어 조던 4</strong><br /></a> "Tour Yellow" | <strong>응모 시간 :8/28(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/28(토) 11:00<br />당첨자 구매 시간 :8/28(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/408452-700/d8af0d2f-070a-41b2-b175-55da033cd3a9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/408452-700/gdyi43/air-jordan-4-retro-gs"><strong>에어 조던 4 (Big Kids)</strong><br /></a> "Tour Yellow" | <strong>응모 시간 :8/28(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/28(토) 11:00<br />당첨자 구매 시간 :8/28(토) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-003/5e494167-4f6c-4fad-8b0c-04570fc86bf7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-003/iljl65/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Grey" | <strong>응모 시간 :9/2(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(목) 11:00<br />당첨자 구매 시간 :9/2(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0601-001/8891d25b-4b4b-453c-9159-099b224aae42_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0601-001/nxtg34/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "Cider" | <strong>응모 시간 :9/2(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(목) 11:00<br />당첨자 구매 시간 :9/2(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
