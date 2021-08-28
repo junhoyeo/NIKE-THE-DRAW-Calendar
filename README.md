@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.27‼️
+> 👟 Updated Draws at 2021.08.28‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8527-700/44e29841-ec9f-46a2-87a1-f7f9c2656e95_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8527-700/zowf58/air-jordan-4-retro"><strong>에어 조던 4</strong><br /></a> "Tour Yellow" | <strong>응모 시간 :8/28(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/28(토) 11:00<br />당첨자 구매 시간 :8/28(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/408452-700/bbf4787d-bdc2-4415-8e62-c7ffe9155b89_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/408452-700/gdyi43/air-jordan-4-retro-gs"><strong>에어 조던 4 (Big Kids)</strong><br /></a> "Tour Yellow" | <strong>응모 시간 :8/28(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/28(토) 11:00<br />당첨자 구매 시간 :8/28(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0775-801/0b505fcf-c64e-4db8-ab7f-ad3e6a81cfe5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/CZ0775-801/jlob62/wmns-air-jordan-1-retro-low-og"><strong>우먼스 에어 조던 1 로우</strong><br /></a> "Starfish" | <strong>응모 시간 :8/30(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/30(월) 11:00<br />당첨자 구매 시간 :8/30(월) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0790-801/7b976728-84a9-4a7b-9f4a-f243dc922140_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CZ0790-801/qkrm95/air-jordan-1-retro-low-og"><strong>에어 조던 1 로우</strong><br /></a> "Starfish" | <strong>응모 시간 :8/30(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/30(월) 11:00<br />당첨자 구매 시간 :8/30(월) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-003/5e494167-4f6c-4fad-8b0c-04570fc86bf7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-003/iljl65/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Grey" | <strong>응모 시간 :9/2(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(목) 11:00<br />당첨자 구매 시간 :9/2(목) 11:00 ~ 13:00 (2시간) |
