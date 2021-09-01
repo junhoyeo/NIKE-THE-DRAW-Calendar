@@ -22,13 +22,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.08.31‼️
+> 👟 Updated Draws at 2021.09.01‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-003/5e494167-4f6c-4fad-8b0c-04570fc86bf7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-003/iljl65/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Grey" | <strong>응모 시간 :9/2(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(목) 11:00<br />당첨자 구매 시간 :9/2(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH0601-001/8891d25b-4b4b-453c-9159-099b224aae42_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH0601-001/nxtg34/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "Cider" | <strong>응모 시간 :9/2(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(목) 11:00<br />당첨자 구매 시간 :9/2(목) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB2179-104/488a48aa-4653-488d-8d50-8dd5177a3c19_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DB2179-104/psfu79/nike-dunk-high-gs"><strong>덩크 하이 (Big Kids)</strong><br /></a> "Championship Navy" | <strong>응모 시간 :9/3(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/3(금) 11:00<br />당첨자 구매 시간 :9/3(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-104/75a7453b-89c3-4b04-b8ec-e5c5b82227ff_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-104/pmft77/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Championship Navy" | <strong>응모 시간 :9/3(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/3(금) 11:00<br />당첨자 구매 시간 :9/3(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB2179-104/488a48aa-4653-488d-8d50-8dd5177a3c19_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DB2179-104/psfu79/nike-dunk-high-gs"><strong>덩크 하이 (Big Kids)</strong><br /></a> "Championship Navy" | <strong>응모 시간 :9/3(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/3(금) 11:00<br />당첨자 구매 시간 :9/3(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
