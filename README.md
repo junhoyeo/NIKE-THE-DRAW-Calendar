@@ -24,6 +24,8 @@
 
 > 👟 Updated Draws at 2021.09.03‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH1347-100/85b4b734-55aa-437a-9bc1-f9d049bfae0c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH1347-100/lvbh14/nike-ldwaffle-s-c"><strong>LD와플 x sacai x CLOT</strong><br /></a> "Orange Blaze" | <strong>응모 시간 :9/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/11(토) 11:00<br />당첨자 구매 시간 :9/11(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
