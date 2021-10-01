@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.09.30‼️
+> 👟 Updated Draws at 2021.10.01‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-001/731678da-255d-494e-94e3-bb754cf3a417_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-001/uumt70/nike-dunk-low-retro-emb"><strong>덩크 로우 x NBA</strong><br /></a> "Nets" | <strong>응모 시간 :10/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/8(금) 11:00<br />당첨자 구매 시간 :10/8(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
