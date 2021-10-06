@@ -22,10 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.10.05‼️
+> 👟 Updated Draws at 2021.10.06‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-001/731678da-255d-494e-94e3-bb754cf3a417_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-001/uumt70/nike-dunk-low-retro-emb"><strong>덩크 로우 x NBA</strong><br /></a> "Nets" | <strong>응모 시간 :10/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/8(금) 11:00<br />당첨자 구매 시간 :10/8(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1224486095/DH3114-001_DH3114-001_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH3114-001/ztmc45/nike-ldwaffle-s-c-ns"><strong>LD와플 x sacai x CLOT</strong><br /></a> "Cool Grey" | <strong>응모 시간 :10/9(토) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/9(토) 12:00<br />당첨자 구매 시간 :10/9(토) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
