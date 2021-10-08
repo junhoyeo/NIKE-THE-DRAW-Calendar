@@ -22,13 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.10.07‼️
+> 👟 Updated Draws at 2021.10.08‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-001/731678da-255d-494e-94e3-bb754cf3a417_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-001/uumt70/nike-dunk-low-retro-emb"><strong>덩크 로우 x NBA</strong><br /></a> "Nets" | <strong>응모 시간 :10/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/8(금) 11:00<br />당첨자 구매 시간 :10/8(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO6288-001/c17aa96d-821b-416d-800e-25cc8a06e907_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DO6288-001/kugi10/nike-dunk-low-gs"><strong>덩크 로우 X NBA (Big Kids)</strong><br /></a> "Nets" | <strong>응모 시간 :10/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/8(금) 11:00<br />당첨자 구매 시간 :10/8(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO6288-100/978e9c4c-5bb5-4694-a333-855fdc0d8c66_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DO6288-100/jwig44/nike-dunk-low-gs"><strong>덩크 로우 X NBA (Big Kids)</strong><br /></a> "Chicago" | <strong>응모 시간 :10/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/8(금) 11:00<br />당첨자 구매 시간 :10/8(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1224486095/DH3114-001_DH3114-001_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH3114-001/ztmc45/nike-ldwaffle-s-c-ns"><strong>LD와플 x sacai x CLOT</strong><br /></a> "Cool Grey" | <strong>응모 시간 :10/9(토) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/9(토) 12:00<br />당첨자 구매 시간 :10/9(토) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-004/913567a6-92a2-4642-8e0e-46e7b4a370df_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-004/nvkd53/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Goldenrod" | <strong>응모 시간 :10/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/15(금) 11:00<br />당첨자 구매 시간 :10/15(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
