@@ -22,11 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.10.08‼️
+> 👟 Updated Draws at 2021.10.09‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1224486095/DH3114-001_DH3114-001_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH3114-001/ztmc45/nike-ldwaffle-s-c-ns"><strong>LD와플 x sacai x CLOT</strong><br /></a> "Cool Grey" | <strong>응모 시간 :10/9(토) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/9(토) 12:00<br />당첨자 구매 시간 :10/9(토) 12:00 ~ 14:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-004/913567a6-92a2-4642-8e0e-46e7b4a370df_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-004/nvkd53/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Goldenrod" | <strong>응모 시간 :10/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/15(금) 11:00<br />당첨자 구매 시간 :10/15(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH1348-001/d907393e-1b8b-4de1-90c9-5cb9d8a6a2a4_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH1348-001/suua81/nike-air-max-1-p"><strong>에어맥스 1 x Patta</strong><br /></a> "Monarch" | <strong>응모 시간 :10/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/15(금) 11:00<br />당첨자 구매 시간 :10/15(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-004/913567a6-92a2-4642-8e0e-46e7b4a370df_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-004/nvkd53/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Goldenrod" | <strong>응모 시간 :10/16(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :10/16(토) 11:00<br />당첨자 구매 시간 :10/16(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
