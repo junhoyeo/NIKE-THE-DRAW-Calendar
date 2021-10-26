@@ -22,8 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.10.25‼️
+> 👟 Updated Draws at 2021.10.26‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4877-600/5be6da91-9874-42d1-a8e4-0ca422887b72_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ4877-600/mlkn83/nike-ldwaffle-su"><strong>LD와플 x sacai x UNDERCOVER</strong><br /></a> "Night Maroon and Team Royal" | <strong>응모 시간 :10/29(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/29(금) 12:00<br />당첨자 구매 시간 :10/29(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4877-300/c83eb231-2510-44a1-8fc8-39cc431a03b3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ4877-300/yrkx43/nike-ldwaffle-su"><strong>LD와플 x sacai x UNDERCOVER</strong><br /></a> "Midnight Spruce and University Red" | <strong>응모 시간 :10/29(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/29(금) 12:00<br />당첨자 구매 시간 :10/29(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4877-001/80a2a66c-6e6a-460e-8be0-9fcee340c421_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ4877-001/ecfh32/nike-ldwaffle-su"><strong>LD와플 x sacai x UNDERCOVER</strong><br /></a> "Black and Bright Citron" | <strong>응모 시간 :10/29(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :10/29(금) 12:00<br />당첨자 구매 시간 :10/29(금) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
