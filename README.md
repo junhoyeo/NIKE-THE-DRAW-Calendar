@@ -22,11 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.11.14‼️
+> 👟 Updated Draws at 2021.11.15‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-611/62e645ff-6782-43b9-a598-cdfdf36640d3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-611/sjjz88/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Bordeaux" | <strong>응모 시간 :11/15(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :11/15(월) 11:00<br />당첨자 구매 시간 :11/15(월) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-611/08f60b42-4175-4154-a095-9110014fed6a_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-611/lsge84/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Bordeaux" | <strong>응모 시간 :11/15(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :11/15(월) 11:00<br />당첨자 구매 시간 :11/15(월) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
