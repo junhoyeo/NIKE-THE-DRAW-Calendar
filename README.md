@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.11.26‼️
+> 👟 Updated Draws at 2021.11.27‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/sacai-x-kaws-blazer-low-neptune-blue-dm7901-400-release-date_feed.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DM7901-400/diaq68/nike-blazer-low-sacai-kaws"><strong>sacai x KAWS 블레이저 로우</strong><br /></a> "Neptune Blue" | <strong>응모 시간 :11/27(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :11/27(토) 11:00<br />당첨자 구매 시간 :11/27(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1385099466/sacai-x-kaws-blazer-low-team-red-dm7901-600-release-date_feed-2.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DM7901-600/fwvt23/nike-blazer-low-sacai-kaws"><strong>sacai x KAWS 블레이저 로우</strong><br /></a> "Team Red" | <strong>응모 시간 :11/27(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :11/27(토) 11:00<br />당첨자 구매 시간 :11/27(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1635333278/DH2482-100_DH2482-100_PC.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH2482-100/zcjy84/nike-kwondo1-peaceminusone"><strong>Kwondo1</strong><br /></a> "White" | <strong>응모 시간 :12/3(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/3(금) 11:00<br />당첨자 구매 시간 :12/3(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/11791294/air-jordan-11-cool-grey-ct8012-005-release-date_feed.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8012-005/dtor97/air-jordan-11-retro"><strong>에어 조던 11</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
 
