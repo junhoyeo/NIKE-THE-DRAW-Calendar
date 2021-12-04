@@ -22,12 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.12.03‼️
+> 👟 Updated Draws at 2021.12.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO7097-100/1ff5e65b-8388-4961-9ab3-81e90a5fc0f5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DO7097-100/vkjc41/air-jordan-1-retro-high-og-sp"><strong>에어 조던 1 x A Ma Maniére</strong><br /></a> "Sail and Burgundy" | <strong>응모 시간 :12/4(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/4(토) 11:00<br />당첨자 구매 시간 :12/4(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/378038-005/974901c8-4843-4a03-bae1-c0b8e087ac6f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/378038-005/pmla48/air-jordan-11-retro-gs"><strong>에어 조던 11 (Big Kids)</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/11791294/air-jordan-11-cool-grey-ct8012-005-release-date_feed.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8012-005/dtor97/air-jordan-11-retro"><strong>에어 조던 11</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/378038-005/974901c8-4843-4a03-bae1-c0b8e087ac6f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/378038-005/pmla48/air-jordan-11-retro-gs"><strong>에어 조던 11 (Big Kids)</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
