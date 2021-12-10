@@ -22,11 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.12.09‼️
+> 👟 Updated Draws at 2021.12.10‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8012-005/c51a2fb8-9785-4268-96c6-007291dde02c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8012-005/dtor97/air-jordan-11-retro"><strong>에어 조던 11</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/378038-005/3090ae6b-9593-4edf-9ac0-5900204ad752_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/378038-005/pmla48/air-jordan-11-retro-gs"><strong>에어 조던 11 (Big Kids)</strong><br /></a> "Cool Grey" | <strong>응모 시간 :12/11(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/11(토) 11:00<br />당첨자 구매 시간 :12/11(토) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
