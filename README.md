@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.12.10‼️
+> 👟 Updated Draws at 2021.12.11‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CW1590-601/bafb6758-e8af-4ba0-bfcc-5bd68e4b1061_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/CW1590-601/jkko49/nike-dunk-low-gs"><strong>덩크 로우 (Big Kids)</strong><br /></a> "Pink Foam" | <strong>응모 시간 :12/15(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/15(수) 11:00<br />당첨자 구매 시간 :12/15(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
