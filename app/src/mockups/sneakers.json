@@ -1,38 +1,5 @@
 [
   {
-    "title": "덩크 로우 (Big Kids)",
-    "theme": "Pink Foam",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CW1590-601/bafb6758-e8af-4ba0-bfcc-5bd68e4b1061_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/junior/fw/young-athletes/CW1590-601/jkko49/nike-dunk-low-gs",
-    "calendar": [
-      "응모 시간 :12/15(수) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :12/15(수) 11:00",
-      "당첨자 구매 시간 :12/15(수) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
-    "title": "우먼스 에어 조던 1",
-    "theme": "Atmosphere",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/-1559800961/DD9335-641_DD9335-641_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/women/fw/basketball/DD9335-641/vlga14/w-air-jordan-1-retro-hi-og",
-    "calendar": [
-      "응모 시간 :12/15(수) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :12/15(수) 11:00",
-      "당첨자 구매 시간 :12/15(수) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
-    "title": "에어 조던 1 로우",
-    "theme": "Chocolate Bliss",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC6991-200/ff4b75d2-dc97-46e5-981d-8bd8b9a479ed_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/men/fw/basketball/DC6991-200/rfys65/air-jordan-1-low-se",
-    "calendar": [
-      "응모 시간 :12/15(수) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :12/15(수) 11:00",
-      "당첨자 구매 시간 :12/15(수) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
     "title": "에어 조던 1 로우 x SoleFly",
     "theme": "Black and Sport Red",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN3400-001/0281cd21-4689-4f1e-a4f1-9ac40ab66412_primary.jpg?snkrBrowse",
@@ -41,6 +8,17 @@
       "응모 시간 :12/17(금) 10:00 ~ 10:30 (30분)",
       "당첨자 발표 :12/17(금) 11:00",
       "당첨자 구매 시간 :12/17(금) 11:00 ~ 13:00 (2시간)"
+    ]
+  },
+  {
+    "title": "에어 조던 1",
+    "theme": "Patent Bred",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-063/02e6b54a-8d96-49fe-b99c-9a5c8367d9a7_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/men/fw/basketball/555088-063/iwbu61/air-jordan-1-retro-high-og",
+    "calendar": [
+      "응모 시간 :12/23(목) 10:00 ~ 10:30 (30분)",
+      "당첨자 발표 :12/23(목) 11:00",
+      "당첨자 구매 시간 :12/23(목) 11:00 ~ 13:00 (2시간)"
     ]
   }
 ]
