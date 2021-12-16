@@ -22,11 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2021.12.15‼️
+> 👟 Updated Draws at 2021.12.16‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN3400-001/0281cd21-4689-4f1e-a4f1-9ac40ab66412_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DN3400-001/ctcv20/air-jordan-1-retro-low-og-sp"><strong>에어 조던 1 로우 x SoleFly</strong><br /></a> "Black and Sport Red" | <strong>응모 시간 :12/17(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/17(금) 11:00<br />당첨자 구매 시간 :12/17(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-063/02e6b54a-8d96-49fe-b99c-9a5c8367d9a7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-063/iwbu61/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Patent Bred" | <strong>응모 시간 :12/23(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/23(목) 11:00<br />당첨자 구매 시간 :12/23(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-063/9d662d1e-3a2c-45b1-ba4c-db9f79522451_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-063/rvhj88/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Patent Bred" | <strong>응모 시간 :12/23(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :12/23(목) 11:00<br />당첨자 구매 시간 :12/23(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
