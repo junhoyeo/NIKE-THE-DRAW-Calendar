@@ -22,13 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.01.17‼️
+> 👟 Updated Draws at 2022.01.18‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3357-100/8396c6af-4da4-4175-bf44-cf2549dd3675_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3357-100/dvpp20/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "Halloween" | <strong>응모 시간 :1/18(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :1/18(화) 11:00<br />당첨자 구매 시간 :1/18(화) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO3806-100/8b5cfde8-8f51-424a-b177-7652621f1ce1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DO3806-100/qico84/nike-dunk-low-prm-gs"><strong>덩크 로우 (Big Kids)</strong><br /></a> "Halloween" | <strong>응모 시간 :1/18(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :1/18(화) 11:00<br />당첨자 구매 시간 :1/18(화) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0088-100/151d838d-8827-40a7-8fb7-a5e6f2529a5c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/young-athletes/DM0088-100/tiry90/nike-dunk-low-prm-ps"><strong>덩크 로우 (Little Kids)</strong><br /></a> "Halloween" | <strong>응모 시간 :1/18(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :1/18(화) 11:00<br />당첨자 구매 시간 :1/18(화) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0717-100/7a46874b-977c-44cf-8607-38bb34487222_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/young-athletes/DM0717-100/ldgc61/nike-dunk-low-prm-td"><strong>덩크 로우 (Toddler)</strong><br /></a> "Halloween" | <strong>응모 시간 :1/18(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :1/18(화) 11:00<br />당첨자 구매 시간 :1/18(화) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
