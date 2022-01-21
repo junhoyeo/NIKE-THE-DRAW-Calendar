@@ -22,7 +22,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.01.20‼️
+> 👟 Updated Draws at 2022.01.21‼️
 
 **현재 진행중인 THE DRAW가 없습니다!**
 
