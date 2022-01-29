@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.01.28‼️
+> 👟 Updated Draws at 2022.01.29‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ8580-100/b58150e5-3a71-443e-9f71-5726fdad06e5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DQ8580-100/vdlt83/w-nike-dunk-low"><strong>우먼스 덩크 로우</strong><br /></a> "Vintage Green" | <strong>응모 시간 :2/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/4(금) 11:00<br />당첨자 구매 시간 :2/4(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
