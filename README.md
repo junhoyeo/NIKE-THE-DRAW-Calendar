@@ -22,10 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.02.03‼️
+> 👟 Updated Draws at 2022.02.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ8580-100/b58150e5-3a71-443e-9f71-5726fdad06e5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DQ8580-100/vdlt83/w-nike-dunk-low"><strong>우먼스 덩크 로우</strong><br /></a> "Vintage Green" | <strong>응모 시간 :2/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/4(금) 11:00<br />당첨자 구매 시간 :2/4(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-104/12a629ff-fd5a-4370-966e-13ba50c2e5f4_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-104/xfaj38/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Championship Court Purple" | <strong>응모 시간 :2/11(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/11(금) 11:00<br />당첨자 구매 시간 :2/11(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
