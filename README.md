@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.02.17‼️
+> 👟 Updated Draws at 2022.02.18‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6817-011/9113efff-41d8-4f40-b593-afc6fe5a0ee5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/BQ6817-011/ymgx74/nike-sb-dunk-low-pro"><strong>SB 덩크 로우</strong><br /></a> "Chlorophyll" | <strong>응모 시간 :2/18(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/18(금) 11:00<br />당첨자 구매 시간 :2/18(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/3db76a3a-310e-46fe-8567-cca450a3abd2_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DQ1823-006/klsj65/w-air-jordan-1-elevate-low-se"><strong>우먼스 에어 조던 1 엘레베이트 로우 SE</strong><br /></a> "Bred" | <strong>응모 시간 :2/19(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/19(토) 11:00<br />당첨자 구매 시간 :2/19(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
