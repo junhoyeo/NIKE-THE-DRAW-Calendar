@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.02.21‼️
+> 👟 Updated Draws at 2022.02.22‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7004-100/3e1b9fc7-6177-4300-943e-47a8bf516350_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DH7004-100/ldwt89/wmns-air-jordan-1-elevate-low"><strong>우먼스 에어 조던 1 엘레베이트 로우 SE</strong><br /></a> "White and Wolf Grey" | <strong>응모 시간 :2/25(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :2/25(금) 11:00<br />당첨자 구매 시간 :2/25(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
