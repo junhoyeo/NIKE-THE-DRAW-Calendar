@@ -22,11 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.01‼️
+> 👟 Updated Draws at 2022.03.02‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CT8529-410/e0edf05e-14cd-4240-bd63-3eac9c93b315_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CT8529-410/jqiu13/air-jordan-6-retro"><strong>에어 조던 6</strong><br /></a> "University Blue" | <strong>응모 시간 :3/2(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/2(수) 11:00<br />당첨자 구매 시간 :3/2(수) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/384665-410/db598157-7d2a-4dae-ac2e-be6961b6d293_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/384665-410/kmxu49/air-jordan-6-retro-gs"><strong>에어 조던 6 (Big Kids)</strong><br /></a> "University Blue" | <strong>응모 시간 :3/2(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/2(수) 11:00<br />당첨자 구매 시간 :3/2(수) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
