@@ -22,8 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.02‼️
+> 👟 Updated Draws at 2022.03.03‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9315-100/a74a7b46-4fe2-4220-bb5b-3794a967c7e8_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/golf/DD9315-100/hoie45/air-jordan-1-low-g"><strong>에어 조던 1 로우 G</strong><br /></a> "White and University Blue" | <strong>응모 시간 :3/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/4(금) 11:00<br />당첨자 구매 시간 :3/4(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9315-002/ee8a13f9-cb91-45c8-ad2e-e0aa2e3628b9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/golf/DD9315-002/rqgv69/air-jordan-1-low-g"><strong>에어 조던 1 로우 G</strong><br /></a> "Wolf Grey" | <strong>응모 시간 :3/4(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/4(금) 11:00<br />당첨자 구매 시간 :3/4(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
