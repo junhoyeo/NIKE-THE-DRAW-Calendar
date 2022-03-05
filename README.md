@@ -22,8 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.04‼️
+> 👟 Updated Draws at 2022.03.05‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1875-001/1d62ff1e-e83d-41c0-85bc-c7f602e86ec3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1875-001/zava41/nike-vaporwaffle-sacai"><strong>나이키 x sacai 베이퍼와플</strong><br /></a> "Black and Gum" | <strong>응모 시간 :3/10(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/10(목) 11:00<br />당첨자 구매 시간 :3/10(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1875-100/f36a4f58-d022-42b3-9fc0-56aea37df430_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1875-100/nvkv94/nike-vaporwaffle-sacai"><strong>나이키 x sacai 베이퍼와플</strong><br /></a> "White and Gum" | <strong>응모 시간 :3/10(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/10(목) 11:00<br />당첨자 구매 시간 :3/10(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
