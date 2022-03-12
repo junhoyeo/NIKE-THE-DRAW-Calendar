@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.11‼️
+> 👟 Updated Draws at 2022.03.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/20f3c6f9-be25-4781-a56f-ceb351720dc4_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-036/yjud25/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Rebellionaire" | <strong>응모 시간 :3/12(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/12(토) 11:00<br />당첨자 구매 시간 :3/12(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/728635375/21387ce1-1ba7-4232-9ed4-c6144417d03f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DQ9324-600/attx41/wmns-nike-dunk-low"><strong>우먼스 덩크 로우</strong><br /></a> "Prime Pink" | <strong>응모 시간 :3/18(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/18(금) 11:00<br />당첨자 구매 시간 :3/18(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
