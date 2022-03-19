@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.18‼️
+> 👟 Updated Draws at 2022.03.19‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-100/fd9427af-09cb-42da-afac-c46e1d6bf681_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-100/ndka40/nike-dunk-low-retro-emb"><strong>덩크 로우</strong><br /></a> "Black and Chile Red" | <strong>응모 시간 :3/23(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/23(수) 11:00<br />당첨자 구매 시간 :3/23(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
