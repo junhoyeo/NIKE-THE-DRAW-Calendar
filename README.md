@@ -22,11 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.22‼️
+> 👟 Updated Draws at 2022.03.23‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-100/fd9427af-09cb-42da-afac-c46e1d6bf681_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-100/ndka40/nike-dunk-low-retro-emb"><strong>덩크 로우</strong><br /></a> "Black and Chile Red" | <strong>응모 시간 :3/23(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/23(수) 11:00<br />당첨자 구매 시간 :3/23(수) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD3363-002/b4d90e21-0a4d-4493-87a2-dee25846b1e6_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD3363-002/uoeh80/nike-dunk-low-retro-emb"><strong>덩크 로우</strong><br /></a> "Racer Blue and Orange" | <strong>응모 시간 :3/23(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/23(수) 11:00<br />당첨자 구매 시간 :3/23(수) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
