@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.03.28‼️
+> 👟 Updated Draws at 2022.03.29‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7577-001/a05f6d34-7dd4-4113-a03f-ce4a0142daeb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH7577-001/tvho45/nike-dunk-low-retro-prm"><strong>덩크 로우</strong><br /></a> "Fossil Rose" | <strong>응모 시간 :3/30(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :3/30(수) 11:00<br />당첨자 구매 시간 :3/30(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
