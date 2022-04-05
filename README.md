@@ -22,13 +22,14 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.04‼️
+> 👟 Updated Draws at 2022.04.05‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7722-001/879b1546-fcbc-4c5b-8a3b-c75c4a22dfbf_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DH7722-001/zrrr83/nike-sb-dunk-low-pro-qs"><strong>SB 덩크 로우</strong><br /></a> "Polaroid" | <strong>응모 시간 :4/5(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/5(화) 11:00<br />당첨자 구매 시간 :4/5(화) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ9649-400/78ef2fcf-cf4a-4caa-be11-5362c5a9dd15_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ9649-400/ndub37/nike-dunk-low-u"><strong>덩크 로우 x UNION</strong><br /></a> "Argon" | <strong>응모 시간 :4/7(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/7(목) 11:00<br />당첨자 구매 시간 :4/7(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7863-001/1195bf2f-c526-4ca9-9f1b-b2470a49d00e_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH7863-001/wdnd49/blazer-low-77-ow"><strong>블레이저 로우 x Off-White™️</strong><br /></a> "Black and Electro Green" | <strong>응모 시간 :4/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/8(금) 11:00<br />당첨자 구매 시간 :4/8(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7863-100/2bee02ea-a317-4b5e-8f4d-e2db3131efe5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH7863-100/bqhf77/blazer-low-77-ow"><strong>블레이저 로우 x Off-White™️</strong><br /></a> "White and University Red" | <strong>응모 시간 :4/8(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/8(금) 11:00<br />당첨자 구매 시간 :4/8(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7534-200/ce73bd16-7591-4443-aeb4-fbfdfe491ee3_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DH7534-200/bmyf96/nike-sb-dunk-low-pro-prm"><strong>SB 덩크 로우</strong><br /></a> "Paisley" | <strong>응모 시간 :4/11(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/11(월) 11:00<br />당첨자 구매 시간 :4/11(월) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH4444-900/407c53b8-cb22-4fba-8998-4bae2b81b527_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH4444-900/raou15/nike-dunk-hi-c"><strong>덩크 하이 x CLOT</strong><br /></a> "Flux" | <strong>응모 시간 :4/12(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/12(화) 11:00<br />당첨자 구매 시간 :4/12(화) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
