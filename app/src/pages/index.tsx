@@ -1,8 +1,8 @@
 import React from 'react';
-import SafeArea from 'react-safe-area-component';
 import styled from 'styled-components';
 
 import CalendarCard from '@/components/CalendarCard';
+import { SafeArea } from '@/components/SafeArea';
 import ServiceWrapper from '@/components/ServiceWrapper';
 
 import sneakers from '@/mockups/sneakers.json';
