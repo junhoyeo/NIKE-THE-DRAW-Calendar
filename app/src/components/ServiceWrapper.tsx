@@ -1,8 +1,8 @@
 import React from 'react';
-import styled from 'styled-components';
 import MobileSizedView from 'react-mobile-sized-view';
+import styled from 'styled-components';
 
-import useWindowSize from '../utils/useWindowSize';
+import useWindowSize from '@/utils/useWindowSize';
 
 const ServiceWrapper: React.FC = ({ children }) => {
   const { width = 1980 } = useWindowSize();

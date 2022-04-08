@@ -1,0 +1,12 @@
+{
+  "name": "NIKE-THE-DRAW-Calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/junhoyeo/NIKE-THE-DRAW-Calendar",
+  "author": "Junho Yeo <i@junho.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0",
+    "prettier": "^2.6.2"
+  }
+}

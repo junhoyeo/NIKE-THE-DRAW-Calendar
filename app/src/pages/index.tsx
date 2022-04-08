@@ -1,20 +1,20 @@
 import React from 'react';
-import SafeArea from 'react-safe-area-component';
 import styled from 'styled-components';
 
-import CalendarCard from './components/CalendarCard';
-import ServiceWrapper from './components/ServiceWrapper';
+import CalendarCard from '@/components/CalendarCard';
+import { SafeArea } from '@/components/SafeArea';
+import ServiceWrapper from '@/components/ServiceWrapper';
+import sneakers from '@/mockups/sneakers.json';
 
-import sneakers from './mockups/sneakers.json';
-
-const App: React.FC = () => {
+const HomePage: React.FC = () => {
   return (
     <>
       <ServiceWrapper>
         <Container>
           {sneakers.length === 0 && (
             <EmptyText>
-              진행중인 드로우가 없습니다!<br />
+              진행중인 드로우가 없습니다!
+              <br />
               <span>No available draws at the time</span>
             </EmptyText>
           )}
@@ -28,7 +28,7 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+export default HomePage;
 
 const Container = styled.div`
   padding: 16px 0;
@@ -50,4 +50,4 @@ const EmptyText = styled.h1`
     font-size: 85%;
     color: rgba(0, 0, 0, 0.65);
   }
-`
+`;
