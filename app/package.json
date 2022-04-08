@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "next lint && npx prettier --write '**/*.{js,jsx,ts,tsx}'",
     "deploy": "yarn build && gh-pages -d build"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0",
     "@types/node": "^16.6.1",
     "@types/react": "^17.0.18",
     "@types/react-dom": "^17.0.9",

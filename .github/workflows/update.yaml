@@ -2,7 +2,7 @@ name: nike-the-draw-calendar
 on:
   schedule:
     # update every day, 04:00 UTC => 13:00 (GMT+9)
-    - cron: "0 4 * * *"
+    - cron: '0 4 * * *'
   push:
     branches:
       - main
