@@ -43,6 +43,7 @@ jobs:
           cd app
           yarn
           yarn build
+          yarn export
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

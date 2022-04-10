@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint && npx prettier --write '**/*.{js,jsx,ts,tsx}'",
-    "deploy": "yarn build && gh-pages -d build"
+    "export": "next export -o build"
   },
   "dependencies": {
     "next": "^12.1.4",
