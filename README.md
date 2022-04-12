@@ -22,10 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.11‼️
+> 👟 Updated Draws at 2022.04.12‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH4444-900/407c53b8-cb22-4fba-8998-4bae2b81b527_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DH4444-900/raou15/nike-dunk-hi-c"><strong>덩크 하이 x CLOT</strong><br /></a> "Flux" | <strong>응모 시간 :4/12(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/12(화) 11:00<br />당첨자 구매 시간 :4/12(화) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ3698-141/14f14c91-9222-4b64-938f-3c493ccf1d78_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DQ3698-141/gvse88/w-air-jordan-1-elevate-low-se"><strong>우먼스 에어 조던 1 엘레베이트 로우</strong><br /></a> "University Blue" | <strong>응모 시간 :4/14(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/14(목) 11:00<br />당첨자 구매 시간 :4/14(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
