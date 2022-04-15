@@ -22,14 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.14‼️
+> 👟 Updated Draws at 2022.04.15‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-105/19521fda-283f-46a5-a05d-4e23451779c4_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-105/LjG6As/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Championship White" | <strong>응모 시간 :4/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/15(금) 11:00<br />당첨자 구매 시간 :4/15(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-107/4d8f586c-333c-4075-9559-b8397a7fb4fb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-107/1yV31x9u5m/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Championship Khaki" | <strong>응모 시간 :4/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/15(금) 11:00<br />당첨자 구매 시간 :4/15(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DB2179-106/6620445a-0553-43bf-bbab-ac540491ce49_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DB2179-106/8oI0p16Y/nike-dunk-high-gs"><strong>덩크 하이 (Big Kids)</strong><br /></a> "Championship White and Red" | <strong>응모 시간 :4/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/15(금) 11:00<br />당첨자 구매 시간 :4/15(금) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1869-112/7fb0db16-dee9-4c17-b099-3c83cc7ee41c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DD1869-112/roS5Ip46/w-nike-dunk-high"><strong>우먼스 덩크 하이</strong><br /></a> "Psychic Purple" | <strong>응모 시간 :4/15(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/15(금) 11:00<br />당첨자 구매 시간 :4/15(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH4402-102/ec94c744-4b55-4377-9dc2-5e934aecbfbd_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DH4402-102/CjN4R749GM44/w-nike-dunk-low-disrupt-2"><strong>우먼스 덩크 로우 디스럽트 2</strong><br /></a> "White and University Blue" | <strong>응모 시간 :4/19(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/19(화) 11:00<br />당첨자 구매 시간 :4/19(화) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
