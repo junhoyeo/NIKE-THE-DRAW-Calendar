@@ -22,10 +22,8 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.18‼️
+> 👟 Updated Draws at 2022.04.19‼️
 
-| 사진 | 제품명 | 응모 일정 |
-| --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH4402-102/ec94c744-4b55-4377-9dc2-5e934aecbfbd_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DH4402-102/CjN4R749GM44/w-nike-dunk-low-disrupt-2"><strong>우먼스 덩크 로우 디스럽트 2</strong><br /></a> "White and University Blue" | <strong>응모 시간 :4/19(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/19(화) 11:00<br />당첨자 구매 시간 :4/19(화) 11:00 ~ 13:00 (2시간) |
+**현재 진행중인 THE DRAW가 없습니다!**
 
 <!-- DRAW CALENDAR: END -->
