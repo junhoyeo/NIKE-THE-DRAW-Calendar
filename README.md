@@ -22,8 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.20‼️
+> 👟 Updated Draws at 2022.04.21‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO2123-113/8a7aac70-ba05-4588-8b56-c038a00be420_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DO2123-113/7yA3027fgiy/air-force-1-mid-07-prm"><strong>에어 포스 1 미드</strong><br /></a> "Culture Day" | <strong>응모 시간 :4/27(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :4/27(수) 11:00<br />당첨자 구매 시간 :4/27(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
