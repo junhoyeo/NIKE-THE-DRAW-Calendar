@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.04.30‼️
+> 👟 Updated Draws at 2022.05.01‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/46961985/DR5487-100_DR5487-100_prirmary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR5487-100/IqU0ED7gxR6/w-nike-dunk-low-lx"><strong>우먼스 덩크 로우</strong><br /></a> "Banana" | <strong>응모 시간 :5/1(일) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/1(일) 11:00<br />당첨자 구매 시간 :5/1(일) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6472-121/295b60fc-e7be-4781-a7c5-9dd8a402e63f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/BQ6472-121/vvI6Lg8L/wmns-air-jordan-1-mid"><strong>우먼스 에어 조던 1 미드</strong><br /></a> "Coconut Milk" | <strong>응모 시간 :5/3(화) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :5/3(화) 12:00<br />당첨자 구매 시간 :5/3(화) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/BQ6472-141/7715856b-5fc0-4c16-9463-ee460189e6fe_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/BQ6472-141/6wA35cUKSTCY/wmns-air-jordan-1-mid"><strong>우먼스 에어 조던 1 미드</strong><br /></a> "Sail and Worn Blue" | <strong>응모 시간 :5/3(화) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :5/3(화) 12:00<br />당첨자 구매 시간 :5/3(화) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DV1681-100/36912b95-243f-4d65-a01a-02ce0d6df2e7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DV1681-100/AxL43qiH/nike-dunk-low-retro-se-nn"><strong>덩크 로우 넥스트 네이처</strong><br /></a> "Nike Sun Club" | <strong>응모 시간 :5/6(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :5/6(금) 12:00<br />당첨자 구매 시간 :5/6(금) 12:00 ~ 14:00 (2시간) |
