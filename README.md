@@ -22,8 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.05.11‼️
+> 👟 Updated Draws at 2022.05.12‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/555088-108/26563468-f222-4c88-88be-3eaabf71104d_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/555088-108/3kT1wh4JB4q9/air-jordan-1-retro-high-og"><strong>에어 조던 1</strong><br /></a> "Bleached Coral" | <strong>응모 시간 :5/14(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/14(토) 11:00<br />당첨자 구매 시간 :5/14(토) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/575441-108/740c29d0-bacb-4f19-9edc-89b13f813ee2_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/basketball/575441-108/EuD4H7/air-jordan-1-retro-high-og-gs"><strong>에어 조던 1 (Big Kids)</strong><br /></a> "Bleached Coral" | <strong>응모 시간 :5/14(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/14(토) 11:00<br />당첨자 구매 시간 :5/14(토) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
