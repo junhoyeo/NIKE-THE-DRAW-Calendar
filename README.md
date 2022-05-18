@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.05.17‼️
+> 👟 Updated Draws at 2022.05.18‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM1206-163/c4bf4d80-a21f-40f8-a303-8884b36328fd_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DM1206-163/XyR8vlQd/air-jordan-1-low-flyease"><strong>에어 조던 1 로우 플라이이즈</strong><br /></a> "Gym Red and Black" | <strong>응모 시간 :5/18(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/18(수) 11:00<br />당첨자 구매 시간 :5/18(수) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ7840-002/48f5c563-3b70-4c19-9bf9-8de8161433bd_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DJ7840-002/1nO39A0q5q4m/air-force-1-07-mid-sp"><strong>에어 포스 1 미드 x Stüssy</strong><br /></a> "Black and Light Bone" | <strong>응모 시간 :5/19(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ9488-063/6eff9e13-c0f9-452a-95fd-8d6517d2ba62_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/ap/nike-sportswear/DJ9488-063/InL8Cg/u-nrg-ra-po-hoodie"><strong>Nike x Stüssy</strong><br /></a> "Grey Hooded Sweatshirt" | <strong>응모 시간 :5/19(목) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN4030-010/c1889823-ea04-4168-99c6-084d07eb8711_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/ap/nike-sportswear/DN4030-010/hhN7OFuBG2/u-nrg-ra-stone-washed-flc-pant"><strong>Nike x Stüssy</strong><br /></a> "Stonewashed Black Sweatpants" | <strong>응모 시간 :5/19(목) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
@@ -35,5 +34,6 @@
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN2191-121/ca6a2723-d328-4e3e-aee0-13694ee34bb6_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/eq/nike-sportswear/DN2191-121/qmM8x2/u-nrg-ra-cuffed-beanie"><strong>Nike x Stüssy</strong><br /></a> "Summit White Cuffed Beanie" | <strong>응모 시간 :5/19(목) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN2191-010/d86ed11d-5259-48d3-8647-cfd46c0d1108_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/eq/nike-sportswear/DN2191-010/5hD9s4K3/u-nrg-ra-cuffed-beanie"><strong>Nike x Stüssy</strong><br /></a> "Black Cuffed Beanie" | <strong>응모 시간 :5/19(목) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ9490-063/0a4cc472-72a7-42b8-977f-49b1bbae3d25_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/ap/nike-sportswear/DJ9490-063/JtK1H0gDbLfD/u-nrg-ra-fleece-pant"><strong>Nike x Stüssy</strong><br /></a> "Grey Sweatpants" | <strong>응모 시간 :5/19(목) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/19(목) 12:00<br />당첨자 구매 시간 :5/19(목) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM4640-036/8ed9c109-0f6f-43b1-98fa-f408f50c4b50_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DM4640-036/2yO444V/air-jordan-5-retro-low-sp"><strong>에어 조던 5 로우 x CLOT</strong><br /></a> "Anthracite" | <strong>응모 시간 :5/20(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/20(금) 11:00<br />당첨자 구매 시간 :5/20(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
