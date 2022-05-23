@@ -22,10 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.05.22‼️
+> 👟 Updated Draws at 2022.05.23‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9315-800/8efde968-fc49-407a-802f-2570bfdb8907_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/golf/DD9315-800/khB8Mv4NB/air-jordan-1-low-g"><strong>에어 조던 1 로우 Golf</strong><br /></a> "Starfish" | <strong>응모 시간 :5/26(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/26(목) 11:00<br />당첨자 구매 시간 :5/26(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/491398798/e7408a19-4fbe-4cef-85ca-bc06947ca86c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ8475-001/HvN3sL4866/nike-air-max-1-sp"><strong>에어맥스 1 x 카시나</strong><br /></a> "Won-Ang" | <strong>응모 시간 :6/8(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/8(수) 11:00<br />당첨자 구매 시간 :6/8(수) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1826011146/cf273550-6196-4e73-80f7-3674b7bb1821_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ8475-800/vkD6vwM/nike-air-max-1-sp"><strong>에어맥스 1 x 카시나</strong><br /></a> "Won-Ang" | <strong>응모 시간 :6/8(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/8(수) 11:00<br />당첨자 구매 시간 :6/8(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
