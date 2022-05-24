@@ -22,11 +22,15 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.05.23‼️
+> 👟 Updated Draws at 2022.05.24‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9315-800/8efde968-fc49-407a-802f-2570bfdb8907_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/golf/DD9315-800/khB8Mv4NB/air-jordan-1-low-g"><strong>에어 조던 1 로우 Golf</strong><br /></a> "Starfish" | <strong>응모 시간 :5/26(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :5/26(목) 11:00<br />당첨자 구매 시간 :5/26(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO9392-200/3270d4f7-6317-40c0-93ef-bd95b0d6d8b2_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DO9392-200/9uL7BeUclrD/nike-air-max-1-cj"><strong>에어맥스 1 x CACT.US CORP</strong><br /></a> "CACT.US Brown" | <strong>응모 시간 :5/27(금) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/27(금) 12:00<br />당첨자 구매 시간 :5/27(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO9392-700/46f3e17d-03e8-415c-b830-143906930acd_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DO9392-700/9iW9640/nike-air-max-1-cj"><strong>에어맥스 1 x CACT.US CORP</strong><br /></a> "CACT.US Gold" | <strong>응모 시간 :5/27(금) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/27(금) 12:00<br />당첨자 구매 시간 :5/27(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN4169-200/84ed6188-72ac-4387-9fab-3478a9e1a4fe_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/little-kids/fw/young-athletes/DN4169-200/6gQ2Qj6p/air-max-1-cj-ps"><strong>에어맥스 1 x CACT.US CORP (Little Kids)</strong><br /></a> "CACT.US Brown" | <strong>응모 시간 :5/27(금) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/27(금) 12:00<br />당첨자 구매 시간 :5/27(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN4170-200/dbd7e49a-63fe-4694-a9c2-c04d07009ff1_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/baby/fw/young-athletes/DN4170-200/fnN0l0w3X/air-max-1-cj-td"><strong>에어맥스 1 x CACT.US CORP (Toddler)</strong><br /></a> "CACT.US Brown" | <strong>응모 시간 :5/27(금) 10:30 ~ 11:00 (30분)</strong><br />당첨자 발표 :5/27(금) 12:00<br />당첨자 구매 시간 :5/27(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/491398798/e7408a19-4fbe-4cef-85ca-bc06947ca86c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ8475-001/HvN3sL4866/nike-air-max-1-sp"><strong>에어맥스 1 x 카시나</strong><br /></a> "Won-Ang" | <strong>응모 시간 :6/8(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/8(수) 11:00<br />당첨자 구매 시간 :6/8(수) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/1826011146/cf273550-6196-4e73-80f7-3674b7bb1821_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ8475-800/vkD6vwM/nike-air-max-1-sp"><strong>에어맥스 1 x 카시나</strong><br /></a> "Won-Ang" | <strong>응모 시간 :6/8(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/8(수) 11:00<br />당첨자 구매 시간 :6/8(수) 11:00 ~ 13:00 (2시간) |
 
