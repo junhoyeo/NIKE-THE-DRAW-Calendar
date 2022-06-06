@@ -22,12 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.06.05‼️
+> 👟 Updated Draws at 2022.06.06‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-300/17469073-711a-43e7-bf67-593ed89d6c8e_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-300/4iH9M5m/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Noble Green" | <strong>응모 시간 :6/6(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/6(월) 11:00<br />당첨자 구매 시간 :6/6(월) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0582-001/8a0fc1eb-5efd-4fd3-987f-14ce73872205_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DM0582-001/ntI8QsDbfB/nike-dunk-hi-retro-se-vntg"><strong>덩크 하이</strong><br /></a> "Light Bone" | <strong>응모 시간 :6/6(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/6(월) 11:00<br />당첨자 구매 시간 :6/6(월) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DH7155-001/7d7cdefc-b0b5-49b6-821c-da2c142e6b84_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DH7155-001/gwD8JcHP3jK/nike-sb-dunk-high-prm"><strong>SB 덩크 하이</strong><br /></a> "Rush Blue and Team Orange" | <strong>응모 시간 :6/7(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/7(화) 11:00<br />당첨자 구매 시간 :6/7(화) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ4040-400/3bc9e32c-44d1-45f0-8afa-854d6ddf7126_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DQ4040-400/ddT3oQ/nike-sb-dunk-low-prm"><strong>SB 덩크 로우</strong><br /></a> "Valor Blue and Team Maroon" | <strong>응모 시간 :6/7(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/7(화) 11:00<br />당첨자 구매 시간 :6/7(화) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/491398798/e7408a19-4fbe-4cef-85ca-bc06947ca86c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ8475-001/HvN3sL4866/nike-air-max-1-sp"><strong>에어맥스 1 x 카시나</strong><br /></a> "Won-Ang" | <strong>응모 시간 :6/8(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/8(수) 11:00<br />당첨자 구매 시간 :6/8(수) 11:00 ~ 13:00 (2시간) |
