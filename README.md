@@ -22,7 +22,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.06.12‼️
+> 👟 Updated Draws at 2022.06.13‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
@@ -32,6 +32,5 @@
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0808-700/2667a208-e81f-45f7-9282-4a88a5c72d43_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DM0808-700/apM74qFT77/nike-sb-dunk-high-pro"><strong>SB 덩크 하이</strong><br /></a> "Pineapple" | <strong>응모 시간 :6/15(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/15(수) 11:00<br />당첨자 구매 시간 :6/15(수) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0807-600/9cdcf8bb-f22c-4095-8adf-d5f7fe050338_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DM0807-600/2uM7p8XR/nike-sb-dunk-low-pro"><strong>SB 덩크 로우</strong><br /></a> "Cherry" | <strong>응모 시간 :6/15(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/15(수) 11:00<br />당첨자 구매 시간 :6/15(수) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0807-400/39a119ab-81e8-4f2a-b014-52a3fa1defc5_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/fw/action-outdoor/DM0807-400/6nX520lf1a3/nike-sb-dunk-low-pro"><strong>SB 덩크 로우</strong><br /></a> "Blue Raspberry" | <strong>응모 시간 :6/15(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/15(수) 11:00<br />당첨자 구매 시간 :6/15(수) 11:00 ~ 13:00 (2시간) |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ4151-500/0c2de8e3-9370-4d35-a8b8-e38222d7795b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DQ4151-500/8iS8VXa/wmns-air-jordan-1-low-se"><strong>우먼스 에어 조던 1 로우</strong><br /></a> "Canvas" | <strong>응모 시간 :6/16(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/16(목) 11:00<br />당첨자 구매 시간 :6/16(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
