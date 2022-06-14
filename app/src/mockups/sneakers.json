@@ -1,27 +1,5 @@
 [
   {
-    "title": "우먼스 에어 조던 1 로우",
-    "theme": "Citron Tint",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DC0774-007/0e376b4e-b5d4-4e03-b03f-614286981ebf_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/women/fw/basketball/DC0774-007/9hK06E/wmns-air-jordan-1-low",
-    "calendar": [
-      "응모 시간 :6/14(화) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :6/14(화) 11:00",
-      "당첨자 구매 시간 :6/14(화) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
-    "title": "에어 조던 1 로우 (Big Kids)",
-    "theme": "Ashen Slate and Mystic Navy",
-    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/553560-414/3d55680b-a363-4bec-b9b2-ae98bff96e9a_primary.jpg?snkrBrowse",
-    "href": "/kr/launch/t/junior/fw/basketball/553560-414/uyT35O/air-jordan-1-low-gs",
-    "calendar": [
-      "응모 시간 :6/14(화) 10:00 ~ 10:30 (30분)",
-      "당첨자 발표 :6/14(화) 11:00",
-      "당첨자 구매 시간 :6/14(화) 11:00 ~ 13:00 (2시간)"
-    ]
-  },
-  {
     "title": "SB 덩크 로우",
     "theme": "Sour Apple",
     "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DM0807-300/d95cec03-c1d4-4c63-8a2e-2d59081492ef_primary.jpg?snkrBrowse",
@@ -63,6 +41,17 @@
       "응모 시간 :6/15(수) 10:00 ~ 10:30 (30분)",
       "당첨자 발표 :6/15(수) 11:00",
       "당첨자 구매 시간 :6/15(수) 11:00 ~ 13:00 (2시간)"
+    ]
+  },
+  {
+    "title": "덩크 로우",
+    "theme": "Valerian Blue",
+    "image": "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-400/f07db255-8579-4085-91b0-080a800547ce_primary.jpg?snkrBrowse",
+    "href": "/kr/launch/t/men/fw/nike-sportswear/DD1391-400/VpF6011O4/nike-dunk-low-retro",
+    "calendar": [
+      "응모 시간 :6/20(월) 10:00 ~ 10:30 (30분)",
+      "당첨자 발표 :6/20(월) 11:00",
+      "당첨자 구매 시간 :6/20(월) 11:00 ~ 13:00 (2시간)"
     ]
   }
 ]
