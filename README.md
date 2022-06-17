@@ -22,11 +22,13 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.06.16‼️
+> 👟 Updated Draws at 2022.06.17‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1391-400/f07db255-8579-4085-91b0-080a800547ce_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1391-400/VpF6011O4/nike-dunk-low-retro"><strong>덩크 로우</strong><br /></a> "Valerian Blue" | <strong>응모 시간 :6/20(월) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/20(월) 11:00<br />당첨자 구매 시간 :6/20(월) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD1399-400/962c813f-6e2b-48a9-9dc8-cf1ff690769e_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DD1399-400/QtN5SjjJI/nike-dunk-hi-retro"><strong>덩크 하이</strong><br /></a> "Championship Blue" | <strong>응모 시간 :6/21(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/21(화) 11:00<br />당첨자 구매 시간 :6/21(화) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/726a5dc3-6f0d-4750-836b-0985200559ac_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DO6290-001/eoD517/air-force-1-mid-sp"><strong>에어 포스 1 미드 x Off-White™️</strong><br /></a> "Black" | <strong>응모 시간 :6/23(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/23(목) 11:00<br />당첨자 구매 시간 :6/23(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/b71c38cf-574b-4bd5-ac0b-c2c4f461112b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DO6290-100/6hQ4YtB7I9w/air-force-1-mid-sp"><strong>에어 포스 1 미드 x Off-White™️</strong><br /></a> "White" | <strong>응모 시간 :6/23(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/23(목) 11:00<br />당첨자 구매 시간 :6/23(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
