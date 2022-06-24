@@ -22,10 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.06.23‼️
+> 👟 Updated Draws at 2022.06.24‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0790-061/753fce7c-fb79-493e-93a1-2093fefabe6f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CZ0790-061/hlA9qYhTry/air-jordan-1-retro-low-og"><strong>에어 조던 1로우</strong><br /></a> "Bleached Coral" | <strong>응모 시간 :6/28(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/28(화) 11:00<br />당첨자 구매 시간 :6/28(화) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR1413-200/84eadec9-fae9-4c80-8611-e719bfd68039_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DR1413-200/0yS5u8V0QS/nike-cortez-sp"><strong>코르테즈 x UNION</strong><br /></a> "Sesame" | <strong>응모 시간 :6/28(화) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/28(화) 11:00<br />당첨자 구매 시간 :6/28(화) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/CZ0790-061/753fce7c-fb79-493e-93a1-2093fefabe6f_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/CZ0790-061/hlA9qYhTry/air-jordan-1-retro-low-og"><strong>에어 조던 1로우</strong><br /></a> "Bleached Coral" | <strong>응모 시간 :6/29(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/29(수) 11:00<br />당첨자 구매 시간 :6/29(수) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
