@@ -22,11 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.06.29‼️
+> 👟 Updated Draws at 2022.06.30‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR4876-100/6e352aeb-19df-42e5-ac6a-c6b47892e079_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/action-outdoor/DR4876-100/SkC2TKo6Lhh/nike-sb-dunk-low-pro-betrue"><strong>SB 덩크 로우</strong><br /></a> "Be True" | <strong>응모 시간 :6/30(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :6/30(목) 11:00<br />당첨자 구매 시간 :6/30(목) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DN1431-102/d2fdca24-321e-459e-9a0a-3bb050d9404b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DN1431-102/NoC5S7K2/w-nike-dunk-low-next-nature"><strong>우먼스 덩크 로우 넥스트 네이처</strong><br /></a> "Barely Green and White" | <strong>응모 시간 :7/6(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/6(수) 11:00<br />당첨자 구매 시간 :7/6(수) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-001/ec36632f-41f9-4263-a8c8-f5cd524bdb44_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-001/ujE11v000H/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Light Bone and Gold" | <strong>응모 시간 :8/5(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/5(금) 11:00<br />당첨자 구매 시간 :8/5(금) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-200/e84f7ebe-9e37-4a91-b326-b2f5b64c25b7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-200/5bQ38dn/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Ale Brown and Gold" | <strong>응모 시간 :8/5(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/5(금) 11:00<br />당첨자 구매 시간 :8/5(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
