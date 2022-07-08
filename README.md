@@ -22,10 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.07.07‼️
+> 👟 Updated Draws at 2022.07.08‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO5047-100/42ec2db7-bee7-45e9-9d7a-559f0a15ebd0_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DO5047-100/BlL8cD7/ajko-1"><strong>AJKO 1</strong><br /></a> "White and Black" | <strong>응모 시간 :7/16(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/16(토) 11:00<br />당첨자 구매 시간 :7/16(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-001/ec36632f-41f9-4263-a8c8-f5cd524bdb44_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-001/ujE11v000H/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Light Bone and Gold" | <strong>응모 시간 :8/5(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/5(금) 11:00<br />당첨자 구매 시간 :8/5(금) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-200/e84f7ebe-9e37-4a91-b326-b2f5b64c25b7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-200/5bQ38dn/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Ale Brown and Gold" | <strong>응모 시간 :8/5(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/5(금) 11:00<br />당첨자 구매 시간 :8/5(금) 11:00 ~ 13:00 (2시간) |
 
