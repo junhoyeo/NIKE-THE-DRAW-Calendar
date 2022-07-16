@@ -22,11 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.07.15‼️
+> 👟 Updated Draws at 2022.07.16‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO5047-100/42ec2db7-bee7-45e9-9d7a-559f0a15ebd0_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/DO5047-100/BlL8cD7/ajko-1"><strong>AJKO 1</strong><br /></a> "White and Black" | <strong>응모 시간 :7/16(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/16(토) 11:00<br />당첨자 구매 시간 :7/16(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DD9315-002/ee8a13f9-cb91-45c8-ad2e-e0aa2e3628b9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/golf/DD9315-002/4bB1wAEN78/air-jordan-1-low-g"><strong>에어 조던 1 로우 G</strong><br /></a> "Wolf Grey" | <strong>응모 시간 :7/20(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/20(수) 11:00<br />당첨자 구매 시간 :7/20(수) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DJ4891-061/e3ac518a-b003-4a0d-8c58-a78f5b1d5a5b_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/basketball/DJ4891-061/8kM2aRehc/w-air-jordan-1-retro-hi-og"><strong>우먼스 에어 조던 1</strong><br /></a> "Varsity Red" | <strong>응모 시간 :7/23(토) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :7/23(토) 11:00<br />당첨자 구매 시간 :7/23(토) 11:00 ~ 13:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-001/ec36632f-41f9-4263-a8c8-f5cd524bdb44_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-001/ujE11v000H/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Light Bone and Gold" | <strong>응모 시간 :8/5(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/5(금) 11:00<br />당첨자 구매 시간 :8/5(금) 11:00 ~ 13:00 (2시간) |
