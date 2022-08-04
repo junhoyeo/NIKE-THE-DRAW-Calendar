@@ -22,12 +22,12 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.08.03‼️
+> 👟 Updated Draws at 2022.08.04‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ0380-001/68f9757c-d522-4ec4-af39-2accd7a15356_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/junior/fw/young-athletes/DQ0380-001/awN5T1I/nike-dunk-low-se-gs"><strong>덩크 로우 (Big Kids)</strong><br /></a> "Jackpot" | <strong>응모 시간 :8/4(목) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :8/4(목) 12:00<br />당첨자 구매 시간 :8/4(목) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-001/ec36632f-41f9-4263-a8c8-f5cd524bdb44_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-001/ujE11v000H/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Light Bone and Gold" | <strong>응모 시간 :8/5(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :8/5(금) 12:00<br />당첨자 구매 시간 :8/5(금) 12:00 ~ 14:00 (2시간) |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DR0420-200/e84f7ebe-9e37-4a91-b326-b2f5b64c25b7_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DR0420-200/5bQ38dn/nike-air-humara-lx"><strong>에어 휴마라 x Jacquemus</strong><br /></a> "Ale Brown and Gold" | <strong>응모 시간 :8/5(금) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :8/5(금) 12:00<br />당첨자 구매 시간 :8/5(금) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/553558-053/894f6851-8c00-4f11-bcb3-18115acd3ee9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/basketball/553558-053/lfL5hVlS/air-jordan-1-low"><strong>에어 조던 1 로우</strong><br /></a> "Stealth and White" | <strong>응모 시간 :8/7(일) 11:00 ~ 11:30 (30분)</strong><br />당첨자 발표 :8/7(일) 12:00<br />당첨자 구매 시간 :8/7(일) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
