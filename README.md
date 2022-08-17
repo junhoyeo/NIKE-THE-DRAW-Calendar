@@ -22,8 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.08.16‼️
+> 👟 Updated Draws at 2022.08.17‼️
 
-**현재 진행중인 THE DRAW가 없습니다!**
+| 사진 | 제품명 | 응모 일정 |
+| --- | ---- | ------- |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO5304-010/d6809846-603e-4c85-ba88-18d4883baa2c_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/ap/nike-sportswear/DO5304-010/4fX45PQ7MP96/u-nrg-fl-sf-jacket"><strong>Nike Storm-FIT x Stüssy</strong><br /></a> "Jacket" | <strong>응모 시간 :8/18(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/18(목) 11:00<br />당첨자 구매 시간 :8/18(목) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO5308-902/8db2ee72-bba7-425d-88d9-b8e588a6f3e9_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/adult-unisex/ap/nike-sportswear/DO5308-902/LrC07X5/u-nrg-fl-ls-top"><strong>Nike x Stüssy</strong><br /></a> "Long-Sleeve Top" | <strong>응모 시간 :8/18(목) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/18(목) 11:00<br />당첨자 구매 시간 :8/18(목) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
