@@ -22,10 +22,11 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.08.25‼️
+> 👟 Updated Draws at 2022.08.26‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
 | <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DQ0581-100/20e81031-b8ab-49da-b31b-a1dccdcb38dc_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DQ0581-100/EfY08q3D7/nike-zoom-cortez-sp"><strong>줌 코르테즈 x sacai</strong><br /></a> "White and University Red" | <strong>응모 시간 :8/31(수) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :8/31(수) 11:00<br />당첨자 구매 시간 :8/31(수) 11:00 ~ 13:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/eb458a93-1569-4fc7-a244-08641b06bf15_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/women/fw/nike-sportswear/DA6672-700/BfI3oUso1/general-purpose-shoe"><strong>나이키 크래프트 제너럴 퍼포스 슈</strong><br /></a> "Archive" | <strong>응모 시간 :9/2(금) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/2(금) 11:00<br />당첨자 구매 시간 :9/2(금) 11:00 ~ 13:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
