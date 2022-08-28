@@ -22,7 +22,7 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.08.27‼️
+> 👟 Updated Draws at 2022.08.28‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
