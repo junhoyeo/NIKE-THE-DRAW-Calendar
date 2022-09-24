@@ -22,10 +22,10 @@
 
 <!-- DRAW CALENDAR: START -->
 
-> 👟 Updated Draws at 2022.09.23‼️
+> 👟 Updated Draws at 2022.09.24‼️
 
 | 사진 | 제품명 | 응모 일정 |
 | --- | ---- | ------- |
-| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/04ee34d4-df9a-4fc2-b22d-92c15c1a1eeb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DX3141-861/7rN8T1h1S9cg/air-force-1-07-lv8"><strong>에어 포스 1</strong><br /></a> "Pojangmacha" | <strong>응모 시간 :9/25(일) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/25(일) 12:00<br />당첨자 구매 시간 :9/25(일) 12:00 ~ 14:00 (2시간) |
+| <img src="https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DX3141-861/04ee34d4-df9a-4fc2-b22d-92c15c1a1eeb_primary.jpg?snkrBrowse" width="256" /> | <a href="https://www.nike.com/kr/launch/t/men/fw/nike-sportswear/DX3141-861/7rN8T1h1S9cg/air-force-1-07-lv8"><strong>에어 포스 1</strong><br /></a> "Pojangmacha" | <strong>응모 시간 :9/25(일) 10:00 ~ 10:30 (30분)</strong><br />당첨자 발표 :9/25(일) 12:00<br />당첨자 구매 시간 :9/25(일) 12:00 ~ 14:00 (2시간) |
 
 <!-- DRAW CALENDAR: END -->
