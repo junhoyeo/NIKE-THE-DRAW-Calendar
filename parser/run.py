@@ -18,14 +18,17 @@ if __name__ == '__main__':
         rendered_markdown = render_row_from_item(item)
         markdown += rendered_markdown + '\n'
 
+    updated = False
     if len(drawable_items):
+        updated = True
         markdown = render_table_header() + markdown
     else:
         markdown = '**현재 진행중인 THE DRAW가 없습니다!**\n'
-    inject_result_to_readme(markdown)
+
+    if updated:
+        inject_result_to_readme(markdown)
+        with open('../app/src/mockups/sneakers.json', 'w') as product_file:
+            json.dump(drawable_items, product_file, ensure_ascii=False, indent=2)
+            product_file.write('\n')
     pprint(drawable_items)
     print('👟 Updated Draws!')
-
-    with open('../app/src/mockups/sneakers.json', 'w') as product_file:
-        json.dump(drawable_items, product_file, ensure_ascii=False, indent=2)
-        product_file.write('\n')
